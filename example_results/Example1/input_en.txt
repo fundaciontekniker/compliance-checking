@@ -1,0 +1,1 @@
+The project specifies a stair guardrail height of 0.95 m and a design that prevents climbing. It has two handrails at 95 cm and 70 cm (±5 cm, in accordance with the accessibility requirements of Decree 68/2000).

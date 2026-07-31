@@ -1,0 +1,15 @@
+Escaleras. En el proyecto las plantas de pisos tienen una altura de cara superior a cara superior de forjado de 3.00 y la planta baja cuenta con una altura de 4.00 m. En plantas sótano, se prevé una altura variable de 290 a 468 cm libres.
+ 
+La huella H y la contrahuella C cumplirán a lo largo de una misma escalera la relación siguiente:
+ 
+540 mm ≤ 2C + H ≤ 700 mm
+ 
+La huella medirá 28 cm como mínimo y la contrahuella entre 13 y 17,5 cm.
+ 
+La anchura de los tramos de escalera es de 130 cm.
+ 
+La anchura de la escalera estará libre de obstáculos. La anchura mínima útil se medirá entre paredes o barreras de protección, sin descontar el espacio ocupado por los pasamanos siempre que estos no sobresalgan más de 12 cm de la pared o barrera de protección.
+ 
+La meseta en los tramos con cambio de dirección tiene la misma dimensión que el resto de escalera y siempre >1m libre de obstáculos. No son invadidas por el giro de apertura de ninguna puerta.
+ 
+Rampas. Los itinerarios cuya pendiente exceda del 4% se consideran rampa. El pavimento del portal está a la misma cota que el soportal.

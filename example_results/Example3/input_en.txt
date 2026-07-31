@@ -1,0 +1,15 @@
+Stairways. In the project, the upper faces of the floor slabs are 3.00 m apart, while the ground floor has a height of 4.00 m. In basement storeys, a variable clear height of 290 to 468 cm is envisaged.
+ 
+The tread T and riser R shall satisfy the following relationship throughout the same stairway:
+ 
+540 mm ≤ 2R + T ≤ 700 mm
+ 
+The tread shall be at least 28 cm and the riser between 13 and 17.5 cm.
+ 
+The stair flights are 130 cm wide.
+ 
+The stairway width shall be free of obstacles. The minimum clear width shall be measured between walls or protective barriers, without deducting the space occupied by handrails provided that they project no more than 12 cm from the wall or protective barrier.
+ 
+The landing at flights with a change of direction has the same dimension as the rest of the stairway and is always >1 m and free of obstacles. It is not encroached upon by the swing of any door.
+ 
+Ramps. Routes whose gradient exceeds 4% are considered ramps. The entrance-lobby floor is at the same level as the covered entrance.

@@ -1,0 +1,112 @@
+{
+  "source_file": "anexo_decreto_68_2000_full(1).json",
+  "definitions": {
+    "article": "Each top-level object in the root 'sections' array.",
+    "article_length": "Word count of the article title, its own content and all descendant hierarchy levels.",
+    "hierarchy_depth": "Top-level section = 1, subsection = 2, subsubsection = 3, subsubsubsection = 4, subsubsubsubsection = 5.",
+    "average_node_depth": "Arithmetic mean of the depths of all hierarchy nodes contained in an article."
+  },
+  "options": {
+    "include_tables": true,
+    "include_table_captions": true,
+    "count_numbers_as_words": true,
+    "table_text_duplicate_detection": true
+  },
+  "hierarchy_counts": {
+    "sections": 5,
+    "subsections": 34,
+    "subsubsections": 78,
+    "subsubsubsections": 32,
+    "subsubsubsubsections": 35
+  },
+  "nodes_beyond_requested_depth": {
+    "level_6": 2
+  },
+  "total_normative_word_count": 23432,
+  "article_count": 5,
+  "article_length_words": {
+    "mean": 4686.4,
+    "minimum": 1037,
+    "maximum": 9531
+  },
+  "article_hierarchy": {
+    "average_max_depth_per_article": 4.4,
+    "max_depth_across_articles": 6,
+    "min_depth_across_articles": 2,
+    "average_of_article_average_node_depths": 3.0023
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_title": "ANEJO I. PARÁMETROS ANTROPOMÉTRICOS.",
+      "word_count": 2936,
+      "node_count": 38,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 10,
+        "subsubsections": 23,
+        "subsubsubsections": 4
+      },
+      "max_hierarchy_depth": 4,
+      "average_node_depth": 2.7895
+    },
+    {
+      "article_index": 2,
+      "article_title": "ANEJO II. CONDICIONES TÉCNICAS SOBRE ACCESIBILIDAD EN EL ENTORNO URBANO.",
+      "word_count": 5880,
+      "node_count": 35,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 4,
+        "subsubsections": 15,
+        "subsubsubsections": 4,
+        "subsubsubsubsections": 11
+      },
+      "max_hierarchy_depth": 5,
+      "average_node_depth": 3.5714
+    },
+    {
+      "article_index": 3,
+      "article_title": "ANEJO III. CONDICIONES TÉCNICAS SOBRE ACCESIBILIDAD EN LOS EDIFICIOS",
+      "word_count": 9531,
+      "node_count": 71,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 10,
+        "subsubsections": 22,
+        "subsubsubsections": 17,
+        "subsubsubsubsections": 19,
+        "level_6": 2
+      },
+      "max_hierarchy_depth": 6,
+      "average_node_depth": 3.6901
+    },
+    {
+      "article_index": 4,
+      "article_title": "ANEJO IV. ACCESIBILIDAD EN LA COMUNICACIÓN.",
+      "word_count": 4048,
+      "node_count": 38,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 7,
+        "subsubsections": 18,
+        "subsubsubsections": 7,
+        "subsubsubsubsections": 5
+      },
+      "max_hierarchy_depth": 5,
+      "average_node_depth": 3.2105
+    },
+    {
+      "article_index": 5,
+      "article_title": "ANEJO V. OBRAS DE REFORMA, AMPLIACIÓN O MODIFICACIÓN EN LAS URBANIZACIONES Y EDIFICACIONES.",
+      "word_count": 1037,
+      "node_count": 4,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 3
+      },
+      "max_hierarchy_depth": 2,
+      "average_node_depth": 1.75
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+    "sections": [
+        {
+            "section_name": "Sección SUA 1. Seguridad frente al riesgo de caídas",
+            "subsections": [
+                {
+                    "subsection_name": "1 Resbaladicidad de los suelos",
+                    "subsubsections": [],
+                    "content": "1 Con el fin de limitar el riesgo de resbalamiento, los suelos de los edificios o zonas de uso Residencial Público, Sanitario, Docente, Comercial, Administrativo y Pública Concurrencia, excluidas las zonas de ocupación nula definidas en el anejo SI A del DB SI, tendrán una clase adecuada conforme al punto 3 de este apartado.\n2 Los suelos se clasifican, en función de su valor de resistencia al deslizamiento Rd, de acuerdo con lo establecido en la tabla 1.1:\nEl valor de resistencia al deslizamiento Rd es el valor PTV obtenido mediante el ensayo del péndulo descrito en la norma UNE 41901:2017 EX. La muestra seleccionada será representativa de las con- diciones más desfavorables de resbaladicidad.\n3 La tabla 1.2 indica la clase que deben tener los suelos, como mínimo, en función de su localización. Dicha clase se mantendrá durante la vida útil del pavimento.\nLocalización y características del suelo\nZonas interiores secas\n- superficies con pendiente menor que el 6%\n- superficies con pendiente igual o mayor que el 6% y escaleras\nZonas interiores húmedas, tales como las entradas a los edificios desde el espacio exterior (1), terrazas cubiertas, vestuarios, baños, aseos, cocinas, etc.\n- superficies con pendiente menor que el 6%\n- superficies con pendiente igual o mayor que el 6% y escaleras\nZonas exteriores. Piscinas (2). Duchas.\n(1) Excepto cuando se trate de accesos directos a zonas de uso restringido.\n(2) En zonas previstas para usuarios descalzos y en el fondo de los vasos, en las zonas en las que la profundidad no exceda de 1,50 m.\n",
+                    "images": [],
+                    "tables": [
+                        {
+                            "page": 8,
+                            "text": "Resistencia al deslizamiento Rd Clase Rd ≤ 15 0 15 < Rd ≤35 1 35< Rd ≤45 2 Rd > 45 3",
+                            "caption": "Tabla 1.1 Clasificación de los suelos según su resbaladicidad",
+                            "filename": "./results/DBSUA/img_table\\table-8-1.jpg"
+                        }
+                    ],
+                    "page": 8
+                },
+                {
+                    "subsection_name": "2 Discontinuidades en el pavimento",
+                    "subsubsections": [],
+                    "content": "1 Excepto en zonas de uso restringido o exteriores y con el fin de limitar el riesgo de caídas como con- secuencia de traspiés o de tropiezos, el suelo debe cumplir las condiciones siguientes:\nClase\na) No tendrá juntas que presenten un resalto de más de 4 mm. Los elementos salientes del nivel del pavimento, puntuales y de pequeña dimensión (por ejemplo, los cerraderos de puertas) no deben sobresalir del pavimento más de 12 mm y el saliente que exceda de 6 mm en sus caras enfrentadas al sentido de circulación de las personas no debe formar un ángulo con el pavimen- to que exceda de 45º.\nb) Los desniveles que no excedan de 5 cm se resolverán con una pendiente que no exceda del 25%;\nc) En zonas para circulación de personas, el suelo no presentará perforaciones o huecos por los que pueda introducirse una esfera de 1,5 cm de diámetro.\n2 Cuando se dispongan barreras para delimitar zonas de circulación, tendrán una altura de 80 cm co- mo mínimo.\n3 En zonas de circulación no se podrá disponer un escalón aislado, ni dos consecutivos, excepto en los casos siguientes.\na) en zonas de uso restringido;\nb) en las zonas comunes de los edificios de uso Residencial Vivienda;\nc) en los accesos y en las salidas de los edificios;\nd) en el acceso a un estrado o escenario.\nEn estos casos, si la zona de circulación incluye un itinerario accesible, el o los escalones no podrán disponerse en el mismo.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 8
+                },
+                {
+                    "subsection_name": "3 Desniveles",
+                    "subsubsections": [
+                        {
+                            "subsubsection_name": "3.1 Protección de los desniveles",
+                            "content": "1 Con el fin de limitar el riesgo de caída, existirán barreras de protección en los desniveles, huecos y aberturas (tanto horizontales como verticales) balcones, ventanas, etc. con una diferencia de cota mayor que 55 cm, excepto cuando la disposición constructiva haga muy improbable la caída o cuan- do la barrera sea incompatible con el uso previsto.\n2 En las zonas de uso público se facilitará la percepción de las diferencias de nivel que no excedan de 55 cm y que sean susceptibles de causar caídas, mediante diferenciación visual y táctil. La diferen- ciación comenzará a 25 cm del borde, como mínimo.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 9
+                        },
+                        {
+                            "subsubsection_name": "3.2 Características de las barreras de protección",
+                            "content": "1 Las barreras de protección tendrán, como mínimo, una altura de 0,90 m cuando la diferencia de cota que protegen no exceda de 6 m y de 1,10 m en el resto de los casos, excepto en el caso de huecos de escaleras de anchura menor que 40 cm, en los que la barrera tendrá una altura de 0,90 m, como mínimo (véase figura 3.1).\nLa altura se medirá verticalmente desde el nivel de suelo o, en el caso de escaleras, desde la línea de inclinación definida por los vértices de los peldaños, hasta el límite superior de la barrera.\n3.2.2 Resistencia\n1 Las barreras de protección tendrán una resistencia y una rigidez suficiente para resistir la fuerza horizontal establecida en el apartado 3.2.1 del Documento Básico SE-AE, en función de la zona en que se encuentren.\n3.2.3 Características constructivas\n1 En cualquier zona de los edificios de uso Residencial Vivienda o de escuelas infantiles, así como en las zonas de uso público de los establecimientos de uso Comercial o de uso Pública Concurrencia, las barreras de protección, incluidas las de las escaleras y rampas, estarán diseñadas de forma que:\na) No puedan ser fácilmente escaladas por los niños, para lo cual:\n- En la altura comprendida entre 30 cm y 50 cm sobre el nivel del suelo o sobre la línea de in- clinación de una escalera no existirán puntos de apoyo, incluidos salientes sensiblemente horizontales con más de 5 cm de saliente.\n- En la altura comprendida entre 50 cm y 80 cm sobre el nivel del suelo no existirán salientes que tengan una superficie sensiblemente horizontal con más de 15 cm de fondo.\nb) No tengan aberturas que puedan ser atravesadas por una esfera de 10 cm de diámetro, ex- ceptuándose las aberturas triangulares que forman la huella y la contrahuella de los peldaños con el límite inferior de la barandilla, siempre que la distancia entre este límite y la línea de incli- nación de la escalera no exceda de 5 cm (véase figura 3.2).\nLas barreras de protección situadas en zonas de uso público en edificios o establecimientos de usos distintos a los citados anteriormente únicamente precisarán cumplir la condición b) anterior, conside- rando para ella una esfera de 15 cm de diámetro.\n3.2.4 Barreras situadas delante de una fila de asientos fijos\n1 La altura de las barreras de protección situadas delante de una fila de asientos fijos podrá reducirse hasta 70 cm si la barrera de protección incorpora un elemento horizontal de 50 cm de anchura, como mínimo, situado a una altura de 50 cm, como mínimo. En ese caso, la barrera de protección será ca- paz de resistir una fuerza horizontal en el borde superior de 3 kN/m y simultáneamente con ella, una fuerza vertical uniforme de 1,0 kN/m, como mínimo, aplicada en el borde exterior (véase figura 3.3).\n",
+                            "images": [
+                                {
+                                    "page": 10,
+                                    "caption": "Figura 3.1 Barreras de protección en ventanas",
+                                    "filename": "./results/DBSUA/img_table\\figure-10-2.jpg"
+                                },
+                                {
+                                    "page": 10,
+                                    "caption": "Figura 3.2 Línea de inclinación y parte inferior de la barandilla",
+                                    "filename": "./results/DBSUA/img_table\\figure-10-3.jpg"
+                                },
+                                {
+                                    "page": 11,
+                                    "caption": "Figura 3.3 Barrera de protección frente a asientos fijos.",
+                                    "filename": "./results/DBSUA/img_table\\figure-11-4.jpg"
+                                }
+                            ],
+                            "tables": [],
+                            "page": 9
+                        }
+                    ],
+                    "content": "",
+                    "images": [],
+                    "tables": [],
+                    "page": 9
+                },
+                {
+                    "subsection_name": "4 Escaleras y rampas",
+                    "subsubsections": [
+                        {
+                            "subsubsection_name": "4.1 Escaleras de uso restringido",
+                            "content": "1 La anchura de cada tramo será de 0,80 m, como mínimo.\n2 La contrahuella será de 20 cm, como máximo, y la huella de 22 cm, como mínimo. La dimensión de toda huella se medirá, en cada peldaño, según la dirección de la marcha.\nEn escaleras de trazado curvo, la huella se medirá en el eje de la escalera, cuando la anchura de es- ta sea menor que 1 m y a 50 cm del lado más estrecho cuando sea mayor. Además la huella medirá 5 cm, como mínimo, en el lado más estrecho y 44 cm, como máximo, en el lado más ancho.\n3 Podrán disponerse mesetas partidas con peldaños a 45º y escalones sin tabica. En este último caso la proyección de las huellas se superpondrá al menos 2,5 cm (véase figura 4.1). La medida de la huella no incluirá la proyección vertical de la huella del peldaño superior.\n4 Dispondrán de barandilla en sus lados abiertos.\nFigura 4.1 Escalones sin tabica\n",
+                            "images": [
+                                {
+                                    "page": 11,
+                                    "caption": "",
+                                    "filename": "./results/DBSUA/img_table\\figure-11-5.jpg"
+                                }
+                            ],
+                            "tables": [],
+                            "page": 11
+                        },
+                        {
+                            "subsubsection_name": "4.2 Escaleras de uso general",
+                            "content": "1 En tramos rectos, la huella medirá 28 cm como mínimo. En tramos rectos o curvos la contrahuella medirá 13 cm como mínimo y 18,5 cm como máximo, excepto en zonas de uso público, así como siempre que no se disponga ascensor como alternativa a la escalera, en cuyo caso la contrahuella medirá 17,5 cm, como máximo.\nLa huella H y la contrahuella C cumplirán a lo largo de una misma escalera la relación siguiente:\n54 cm ≤ 2C + H ≤ 70 cm\n2 No se admite bocel. En las escaleras previstas para evacuación ascendente, así como cuando no exista un itinerario accesible alternativo, deben disponerse tabicas y éstas serán verticales o inclina- das formando un ángulo que no exceda de 15º con la vertical (véase figura 4.2).\n3 En tramos curvos, la huella medirá 28 cm, como mínimo, a una distancia de 50 cm del borde interior y 44 cm, como máximo, en el borde exterior (véase figura 4.3). Además, se cumplirá la relación indi- cada en el punto 1 anterior a 50 cm de ambos extremos. La dimensión de toda huella se medirá, en cada peldaño, según la dirección de la marcha.\n4 La medida de la huella no incluirá la proyección vertical de la huella del peldaño superior.\n4.2.2 Tramos\n1 Excepto en los casos admitidos en el punto 3 del apartado 2 de esta Sección, cada tramo tendrá 3 peldaños como mínimo. La máxima altura que puede salvar un tramo es 2,25 m en zonas de uso pú- blico, así como siempre que no se disponga ascensor como alternativa a la escalera, y 3,20 m en los demás casos.\n2 Los tramos podrán ser rectos, curvos o mixtos, excepto en zonas de hospitalización y tratamientos intensivos, en escuelas infantiles y en centros de enseñanza primaria o secundaria, donde los tramos únicamente pueden ser rectos.\n3 Entre dos plantas consecutivas de una misma escalera, todos los peldaños tendrán la misma contra- huella y todos los peldaños de los tramos rectos tendrán la misma huella. Entre dos tramos consecu- tivos de plantas diferentes, la contrahuella no variará más de 1 cm.\nEn tramos mixtos, la huella medida en el eje del tramo en las partes curvas no será menor que la huella en las partes rectas.\n4 La anchura útil del tramo se determinará de acuerdo con las exigencias de evacuación establecidas en el apartado 4 de la Sección SI 3 del DB-SI y será, como mínimo, la indicada en la tabla 4.1.\n(1) En edificios existentes, cuando se trate de instalar un ascensor que permita mejorar las condiciones de accesibilidad para personas con discapacidad, se puede admitir una anchura menor siempre que se acredite la no viabilidad técnica y econó- mica de otras alternativas que no supongan dicha reducción de anchura y se aporten las medidas complementarias de mejora de la seguridad que en cada caso se estimen necesarias.\n(2) Excepto cuando la escalera comunique con una zona accesible, cuyo ancho será de 1,00 m como mínimo.\n5 La anchura de la escalera estará libre de obstáculos. La anchura mínima útil se medirá entre paredes o barreras de protección, sin descontar el espacio ocupado por los pasamanos siempre que estos no sobresalgan más de 12 cm de la pared o barrera de protección. En tramos curvos, la anchura útil de- be excluir las zonas en las que la dimensión de la huella sea menor que 17 cm.\n4.2.3 Mesetas\n1 Las mesetas dispuestas entre tramos de una escalera con la misma dirección tendrán al menos la anchura de la escalera y una longitud medida en su eje de 1 m, como mínimo.\n2 Cuando exista un cambio de dirección entre dos tramos, la anchura de la escalera no se reducirá a lo largo de la meseta (véase figura 4.4). La zona delimitada por dicha anchura estará libre de obstácu- los y sobre ella no barrerá el giro de apertura de ninguna puerta, excepto las de zonas de ocupación nula definidas en el anejo SI A del DB SI.\n3 En zonas de hospitalización o de tratamientos intensivos, la profundidad de las mesetas en las que el recorrido obligue a giros de 180º será de 1,60 m, como mínimo.\n4 En las mesetas de planta de las escaleras de zonas de uso público se dispondrá una franja de pavi- mento visual y táctil en el arranque de los tramos, según las características especificadas en el apar- tado 2.2 de la Sección SUA 9. En dichas mesetas no habrá pasillos de anchura inferior a 1,20 m ni puertas situados a menos de 40 cm de distancia del primer peldaño de un tramo.\nSUA 1. Seguridad frente al riesgo de caídas\n4.2.4 Pasamanos\n1 Las escaleras que salven una altura mayor que 55 cm dispondrán de pasamanos al menos en un lado. Cuando su anchura libre exceda de 1,20 m, así como cuando no se disponga ascensor como alternativa a la escalera, dispondrán de pasamanos en ambos lados.\n2 Se dispondrán pasamanos intermedios cuando la anchura del tramo sea mayor que 4 m. La separa- ción entre pasamanos intermedios será de 4 m como máximo, excepto en escalinatas de carácter monumental en las que al menos se dispondrá uno.\n3 En escaleras de zonas de uso público o que no dispongan de ascensor como alternativa, el pasama- nos se prolongará 30 cm en los extremos, al menos en un lado. En uso Sanitario, el pasamanos será continuo en todo su recorrido, incluidas mesetas, y se prolongarán 30 cm en los extremos, en ambos lados.\n4 El pasamanos estará a una altura comprendida entre 90 y 110 cm. En escuelas infantiles y centros de enseñanza primaria se dispondrá otro pasamanos a una altura comprendida entre 65 y 75 cm.\n5 El pasamanos será firme y fácil de asir, estará separado del paramento al menos 4 cm y su sistema de sujeción no interferirá el paso continuo de la mano.\n",
+                            "images": [
+                                {
+                                    "page": 12,
+                                    "caption": "Figura 4.2 Configuración de los peldaños.",
+                                    "filename": "./results/DBSUA/img_table\\figure-12-6.jpg"
+                                },
+                                {
+                                    "page": 12,
+                                    "caption": "Figura 4.3 Escalera con trazado curvo.",
+                                    "filename": "./results/DBSUA/img_table\\figure-12-7.jpg"
+                                },
+                                {
+                                    "page": 14,
+                                    "caption": "Figura 4.4 Cambio de dirección entre dos tramos.",
+                                    "filename": "./results/DBSUA/img_table\\figure-14-8.jpg"
+                                }
+                            ],
+                            "tables": [
+                                {
+                                    "page": 13,
+                                    "text": "Anchura útil mínima (m) en escaleras pre- Uso del edificio o zona vistas para un número de personas: ≤ 25 ≤ 50 ≤ 100 > 100 Residencial Vivienda, incluso escalera de comunicación con aparcamiento 1,00 (1) Docente con escolarización infantil o de enseñanza primaria Pública concurrencia y Comercial 0,80 (2) 0,90 (2) 1,00 1,10 Sanitario Zonas destinadas a pacientes internos o externos con recorridos que obligan a giros 1,40 de 90º o mayores Otras zonas 1,20 Casos restantes 0,80 (2) 0,90 (2) 1,00",
+                                    "caption": "Tabla 4.1 Escaleras de uso general. Anchura útil mínima de tramo en función del uso",
+                                    "filename": "./results/DBSUA/img_table\\table-13-2.jpg"
+                                }
+                            ],
+                            "page": 11
+                        },
+                        {
+                            "subsubsection_name": "4.3 Rampas",
+                            "content": "1 Los itinerarios cuya pendiente exceda del 4% se consideran rampa a efectos de este DB-SUA, y cumplirán lo que se establece en los apartados que figuran a continuación, excepto los de uso res- tringido y los de circulación de vehículos en aparcamientos que también estén previstas para la circu- lación de personas. Estas últimas deben satisfacer la pendiente máxima que se establece para ellas en el apartado 4.3.1 siguiente, así como las condiciones de la Sección SUA 7.\n4.3.1 Pendiente\n1 Las rampas tendrán una pendiente del 12%, como máximo, excepto:\na) las que pertenezcan a itinerarios accesibles, cuya pendiente será, como máximo, del 10% cuan- do su longitud sea menor que 3 m, del 8% cuando la longitud sea menor que 6 m y del 6% en el resto de los casos. Si la rampa es curva, la pendiente longitudinal máxima se medirá en el lado más desfavorable.\nb) las de circulación de vehículos en aparcamientos que también estén previstas para la circulación de personas, y no pertenezcan a un itinerario accesible, cuya pendiente será, como máximo, del 16%.\n2 La pendiente transversal de las rampas que pertenezcan a itinerarios accesibles será del 2%, como máximo.\n4.3.2 Tramos\n1 Los tramos tendrán una longitud de 15 m como máximo, excepto si la rampa pertenece a itinerarios accesibles, en cuyo caso la longitud del tramo será de 9 m, como máximo, así como en las de apar- camientos previstas para circulación de vehículos y de personas, en las cuales no se limita la longi- tud de los tramos. La anchura útil se determinará de acuerdo con las exigencias de evacuación esta- blecidas en el apartado 4 de la Sección SI 3 del DB-SI y será, como mínimo, la indicada para escale- ras en la tabla 4.1.\n2 La anchura de la rampa estará libre de obstáculos. La anchura mínima útil se medirá entre paredes o barreras de protección, sin descontar el espacio ocupado por los pasamanos, siempre que estos no sobresalgan más de 12 cm de la pared o barrera de protección.\n3 Si la rampa pertenece a un itinerario accesible los tramos serán rectos o con un radio de curvatura de al menos 30 m y de una anchura de 1,20 m, como mínimo. Asimismo, dispondrán de una superfi- cie horizontal al principio y al final del tramo con una longitud de 1,20 m en la dirección de la rampa, como mínimo.\n4.3.3 Mesetas\n1 Las mesetas dispuestas entre los tramos de una rampa con la misma dirección tendrán al menos la anchura de la rampa y una longitud, medida en su eje, de 1,50 m como mínimo.\n2 Cuando exista un cambio de dirección entre dos tramos, la anchura de la rampa no se reducirá a lo largo de la meseta. La zona delimitada por dicha anchura estará libre de obstáculos y sobre ella no barrerá el giro de apertura de ninguna puerta, excepto las de zonas de ocupación nula definidas en el anejo SI A del DB SI.\n3 No habrá pasillos de anchura inferior a 1,20 m ni puertas situados a menos de 40 cm de distancia del arranque de un tramo. Si la rampa pertenece a un itinerario accesible, dicha distancia será de 1,50 m como mínimo.\n4.3.4 Pasamanos\n1 Las rampas que salven una diferencia de altura de más de 550 mm y cuya pendiente sea mayor o igual que el 6%, dispondrán de un pasamanos continuo al menos en un lado.\n2 Las rampas que pertenezcan a un itinerario accesible, cuya pendiente sea mayor o igual que el 6% y salven una diferencia de altura de más de 18,5 cm, dispondrán de pasamanos continuo en todo su recorrido, incluido mesetas, en ambos lados. Asimismo, los bordes libres contarán con un zócalo o elemento de protección lateral de 10 cm de altura, como mínimo. Cuando la longitud del tramo exce- da de 3 m, el pasamanos se prolongará horizontalmente al menos 30 cm en los extremos, en ambos lados.\n3 El pasamanos estará a una altura comprendida entre 90 y 110 cm. Las rampas situadas en escuelas infantiles y en centros de enseñanza primaria, así como las que pertenecen a un itinerario accesible, dispondrán de otro pasamanos a una altura comprendida entre 65 y 75 cm.\n4 El pasamanos será firme y fácil de asir, estará separado del paramento al menos 4 cm y su sistema de sujeción no interferirá el paso continuo de la mano.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 14
+                        },
+                        {
+                            "subsubsection_name": "4.4 Pasillos escalonados de acceso a localidades en graderíos y tribunas",
+                            "content": "1 Los pasillos escalonados de acceso a localidades en zonas de espectadores tales como patios de butacas, anfiteatros, graderíos o similares, tendrán escalones con una dimensión constante de con- trahuella. Las huellas podrán tener dos dimensiones que se repitan en peldaños alternativos, con el fin de permitir el acceso a nivel a las filas de espectadores.\n2 La anchura de los pasillos escalonados se determinará de acuerdo con las condiciones de evacua- ción que se establecen en el apartado 4 de la Sección SI 3 del DB-SI.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 15
+                        }
+                    ],
+                    "content": "",
+                    "images": [],
+                    "tables": [],
+                    "page": 11
+                },
+                {
+                    "subsection_name": "5 Limpieza de los acristalamientos exteriores",
+                    "subsubsections": [],
+                    "content": "1 En edificios de uso Residencial Vivienda, los acristalamientos que se encuentren a una altura de más de 6 m sobre la rasante exterior con vidrio transparente cumplirán las condiciones que se indican a continuación, salvo cuando sean practicables o fácilmente desmontables, permitiendo su limpieza desde el interior:\na) toda la superficie exterior del acristalamiento se encontrará comprendida en un radio de 0,85 m desde algún punto del borde de la zona practicable situado a una altura no mayor de 1,30 m. (véase figura 5.1);\nb) los acristalamientos reversibles estarán equipados con un dispositivo que los mantenga blo- queados en la posición invertida durante su limpieza.\nalcance\nSección SUA 2\n",
+                    "images": [
+                        {
+                            "page": 16,
+                            "caption": "",
+                            "filename": "./results/DBSUA/img_table\\figure-16-9.jpg"
+                        }
+                    ],
+                    "tables": [],
+                    "page": 15
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 8
+        },
+        {
+            "section_name": "Sección SUA 2. Seguridad frente al riesgo de impacto o de atrapamiento",
+            "subsections": [
+                {
+                    "subsection_name": "1 Impacto",
+                    "subsubsections": [
+                        {
+                            "subsubsection_name": "1.1 Impacto con elementos fijos",
+                            "content": "1 La altura libre de paso en zonas de circulación será, como mínimo, 2,10 m en zonas de uso restrin- gido y 2,20 m en el resto de las zonas. En los umbrales de las puertas la altura libre será 2 m, como mínimo.\n2 Los elementos fijos que sobresalgan de las fachadas y que estén situados sobre zonas de circula- ción estarán a una altura de 2,20 m, como mínimo.\n3 En zonas de circulación, las paredes carecerán de elementos salientes que no arranquen del suelo, que vuelen más de 15 cm en la zona de altura comprendida entre 15 cm y 2,20 m medida a partir del suelo y que presenten riesgo de impacto.\n4 Se limitará el riesgo de impacto con elementos volados cuya altura sea menor que 2 m, tales como mesetas o tramos de escalera, de rampas, etc., disponiendo elementos fijos que restrinjan el acceso hasta ellos y permitirán su detección por los bastones de personas con discapacidad visual.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 17
+                        },
+                        {
+                            "subsubsection_name": "1.2 Impacto con elementos practicables",
+                            "content": "1 Excepto en zonas de uso restringido, las puertas de recintos que no sean de ocupación nula (defini- da en el Anejo SI A del DB SI) situadas en el lateral de los pasillos cuya anchura sea menor que 2,50 m se dispondrán de forma que el barrido de la hoja no invada el pasillo (véase figura 1.1). En pasillos cuya anchura exceda de 2,50 m, el barrido de las hojas de las puertas no debe invadir la anchura de- terminada, en función de las condiciones de evacuación, conforme al apartado 4 de la Sección SI 3 del DB SI.\n2 Las puertas de vaivén situadas entre zonas de circulación tendrán partes transparentes o transluci- das que permitan percibir la aproximación de las personas y que cubran la altura comprendida entre 0,7 m y 1,5 m, como mínimo.\n3 Las puertas industriales, comerciales, de garaje y portones cumplirán las condiciones de seguridad de utilización que se establecen en su reglamentación específica y tendrán marcado CE de confor- midad con los correspondientes Reglamentos y Directivas Europeas.\n4 Las puertas peatonales automáticas cumplirán las condiciones de seguridad de utilización que se establecen en su reglamentación específica y tendrán marcado CE de conformidad con los corres- pondientes Reglamentos y Directivas Europeas.\n",
+                            "images": [
+                                {
+                                    "page": 17,
+                                    "caption": "Figura 1.1 Disposición de puertas laterales a vías de circulación",
+                                    "filename": "./results/DBSUA/img_table\\figure-17-10.jpg"
+                                }
+                            ],
+                            "tables": [],
+                            "page": 17
+                        },
+                        {
+                            "subsubsection_name": "1.3 Impacto con elementos frágiles",
+                            "content": "1 Los vidrios existentes en las áreas con riesgo de impacto que se indican en el punto 2 siguiente de las superficies acristaladas que no dispongan de una barrera de protección conforme al apartado 3.2 de SUA 1, tendrán una clasificación de prestaciones X(Y)Z determinada según la norma UNE-EN 12600:2003 cuyos parámetros cumplan lo que se establece en la tabla 1.1. Se excluyen de dicha condición los vidrios cuya mayor dimensión no exceda de 30 cm.\n2 Se identifican las siguientes áreas con riesgo de impacto (véase figura 1.2):\na) en puertas, el área comprendida entre el nivel del suelo, una altura de 1,50 m y una anchura igual a la de la puerta más 0,30 m a cada lado de esta;\nb) en paños fijos, el área comprendida entre el nivel del suelo y una altura de 0,90 m.\n3 Las partes vidriadas de puertas y de cerramientos de duchas y bañeras estarán constituidas por elementos laminados o templados que resistan sin rotura un impacto de nivel 3, conforme al proce- dimiento descrito en la norma UNE EN 12600:2003.\n",
+                            "images": [
+                                {
+                                    "page": 18,
+                                    "caption": "Figura 1.2 Identificación de áreas con riesgo de impacto",
+                                    "filename": "./results/DBSUA/img_table\\figure-18-11.jpg"
+                                }
+                            ],
+                            "tables": [
+                                {
+                                    "page": 18,
+                                    "text": "Diferencia de cotas a ambos lados de Valor del parámetro la superficie acristalada X Y Z Mayor que 12 m cualquiera B o C 1 Comprendida entre 0,55 m y 12 m cualquiera B o C 1 ó 2 Menor que 0,55 m 1, 2 ó 3 B o C cualquiera",
+                                    "caption": "Tabla 1.1 Valor de los parámetros X(Y)Z en función de la diferencia de cota",
+                                    "filename": "./results/DBSUA/img_table\\table-18-3.jpg"
+                                }
+                            ],
+                            "page": 18
+                        },
+                        {
+                            "subsubsection_name": "1.4 Impacto con elementos insuficientemente perceptibles",
+                            "content": "1 Las grandes superficies acristaladas que se puedan confundir con puertas o aberturas (lo que exclu- ye el interior de viviendas) estarán provistas, en toda su longitud, de señalización visualmente con- trastada situada a una altura inferior comprendida entre 0,85 y 1,10 m y a una altura superior com- prendida entre 1,50 y 1,70 m. Dicha señalización no es necesaria cuando existan montantes separa- dos una distancia de 0,60 m, como máximo, o si la superficie acristalada cuenta al menos con un tra- vesaño situado a la altura inferior antes mencionada.\n2 Las puertas de vidrio que no dispongan de elementos que permitan identificarlas, tales como cercos o tiradores, dispondrán de señalización conforme al apartado 1 anterior.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 18
+                        }
+                    ],
+                    "content": "",
+                    "images": [],
+                    "tables": [],
+                    "page": 17
+                },
+                {
+                    "subsection_name": "2 Atrapamiento",
+                    "subsubsections": [],
+                    "content": "1 Con el fin de limitar el riesgo de atrapamiento producido por una puerta corredera de accionamiento manual, incluidos sus mecanismos de apertura y cierre, la distancia a hasta el objeto fijo más próxi- mo será 20 cm, como mínimo (véase figura 2.1).\n2 Los elementos de apertura y cierre automáticos dispondrán de dispositivos de protección adecuados al tipo de accionamiento y cumplirán con las especificaciones técnicas propias.\n",
+                    "images": [
+                        {
+                            "page": 19,
+                            "caption": "Figura 2.1 Holgura para evitar atrapamientos",
+                            "filename": "./results/DBSUA/img_table\\figure-19-12.jpg"
+                        }
+                    ],
+                    "tables": [],
+                    "page": 19
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 17
+        },
+        {
+            "section_name": "Sección SUA 3. Seguridad frente al riesgo de aprisionamiento en recintos",
+            "subsections": [
+                {
+                    "subsection_name": "1 Aprisionamiento",
+                    "subsubsections": [],
+                    "content": "1 Cuando las puertas de un recinto tengan dispositivo para su bloqueo desde el interior y las personas puedan quedar accidentalmente atrapadas dentro del mismo, existirá algún sistema de desbloqueo de las puertas desde el exterior del recinto. Excepto en el caso de los baños o los aseos de vivien- das, dichos recintos tendrán iluminación controlada desde su interior.\n2 En zonas de uso público, los aseos accesibles y cabinas de vestuarios accesibles dispondrán de un dispositivo en el interior fácilmente accesible, mediante el cual se transmita una llamada de asisten- cia perceptible desde un punto de control y que permita al usuario verificar que su llamada ha sido recibida, o perceptible desde un paso frecuente de personas.\n3 La fuerza de apertura de las puertas de salida será de 140 N, como máximo, excepto en las situadas en itinerarios accesibles, en las que se aplicará lo establecido en la definición de los mismos en el anejo A Terminología (como máximo 25 N, en general, 65 N cuando sean resistentes al fuego).\n4 Para determinar la fuerza de maniobra de apertura y cierre de las puertas de maniobra manual ba- tientes/pivotantes y deslizantes equipadas con pestillos de media vuelta y destinadas a ser utilizadas por peatones (excluidas puertas con sistema de cierre automático y puertas equipadas con herrajes especiales, como por ejemplo los dispositivos de salida de emergencia) se empleará el método de ensayo especificado en la norma UNE-EN 12046-2:2000.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 20
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 20
+        },
+        {
+            "section_name": "Sección SUA 4. Seguridad frente al riesgo causado por iluminación inadecuada",
+            "subsections": [
+                {
+                    "subsection_name": "1 Alumbrado normal en zonas de circulación",
+                    "subsubsections": [],
+                    "content": "1 En cada zona se dispondrá una instalación de alumbrado capaz de proporcionar, una iluminancia mínima de 20 lux en zonas exteriores y de 100 lux en zonas interiores, excepto aparcamientos inte- riores en donde será de 50 lux, medida a nivel del suelo.\nEl factor de uniformidad media será del 40% como mínimo.\n2 En las zonas de los establecimientos de uso Pública Concurrencia en las que la actividad se desarro- lle con un nivel bajo de iluminación, como es el caso de los cines, teatros, auditorios, discotecas, etc., se dispondrá una iluminación de balizamiento en las rampas y en cada uno de los peldaños de las escaleras.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 21
+                },
+                {
+                    "subsection_name": "2 Alumbrado de emergencia",
+                    "subsubsections": [
+                        {
+                            "subsubsection_name": "2.1 Dotación",
+                            "content": "1 Los edificios dispondrán de un alumbrado de emergencia que, en caso de fallo del alumbrado nor- mal, suministre la iluminación necesaria para facilitar la visibilidad a los usuarios de manera que puedan abandonar el edificio, evite las situaciones de pánico y permita la visión de las señales indi- cativas de las salidas y la situación de los equipos y medios de protección existentes\nContarán con alumbrado de emergencia las zonas y los elementos siguientes:\na) Todo recinto cuya ocupación sea mayor que 100 personas;\nb) Los recorridos desde todo origen de evacuación hasta el espacio exterior seguro y hasta las zo- nas de refugio, incluidas las propias zonas de refugio, según definiciones en el Anejo A de DB SI;\nc) Los aparcamientos cerrados o cubiertos cuya superficie construida exceda de 100 m2, incluidos los pasillos y las escaleras que conduzcan hasta el exterior o hasta las zonas generales del edi- ficio;\nd) Los locales que alberguen equipos generales de las instalaciones de protección contra incendios y los de riesgo especial, indicados en DB-SI 1;\ne) Los aseos generales de planta en edificios de uso público;\nf) Los lugares en los que se ubican cuadros de distribución o de accionamiento de la instalación de alumbrado de las zonas antes citadas;\ng) Las señales de seguridad;\nh) Los itinerarios accesibles.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 21
+                        },
+                        {
+                            "subsubsection_name": "2.2 Posición y características de las luminarias",
+                            "content": "1 Con el fin de proporcionar una iluminación adecuada las luminarias cumplirán las siguientes condi- ciones:\na) Se situarán al menos a 2 m por encima del nivel del suelo;\nSUA 4. Seguridad frente al riesgo causado por iluminación inadecuada\nb) Se dispondrá una en cada puerta de salida y en posiciones en las que sea necesario destacar un peligro potencial o el emplazamiento de un equipo de seguridad. Como mínimo se dispon- drán en los siguientes puntos:\n- en las puertas existentes en los recorridos de evacuación;\n- en las escaleras, de modo que cada tramo de escaleras reciba iluminación directa;\n- en cualquier otro cambio de nivel;\n- en los cambios de dirección y en las intersecciones de pasillos;\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 21
+                        },
+                        {
+                            "subsubsection_name": "2.3 Características de la instalación",
+                            "content": "1 La instalación será fija, estará provista de fuente propia de energía y debe entrar automáticamente en funcionamiento al producirse un fallo de alimentación en la instalación de alumbrado normal en las zonas cubiertas por el alumbrado de emergencia. Se considera como fallo de alimentación el descenso de la tensión de alimentación por debajo del 70% de su valor nominal.\n2 El alumbrado de emergencia de las vías de evacuación debe alcanzar al menos el 50% del nivel de iluminación requerido al cabo de los 5 s y el 100% a los 60 s.\n3 La instalación cumplirá las condiciones de servicio que se indican a continuación durante una hora, como mínimo, a partir del instante en que tenga lugar el fallo:\na) En las vías de evacuación cuya anchura no exceda de 2 m, la iluminancia horizontal en el suelo debe ser, como mínimo, 1 lux a lo largo del eje central y 0,5 lux en la banda central que com- prende al menos la mitad de la anchura de la vía. Las vías de evacuación con anchura superior a 2 m pueden ser tratadas como varias bandas de 2 m de anchura, como máximo.\nb) En los puntos en los que estén situados los equipos de seguridad, las instalaciones de protec- ción contra incendios de utilización manual y los cuadros de distribución del alumbrado, la ilumi- nancia horizontal será de 5 Iux, como mínimo.\nc) A lo largo de la línea central de una vía de evacuación, la relación entre la iluminancia máxima y la mínima no debe ser mayor que 40:1.\nd) Los niveles de iluminación establecidos deben obtenerse considerando nulo el factor de reflexión sobre paredes y techos y contemplando un factor de mantenimiento que englobe la reducción del rendimiento luminoso debido a la suciedad de las luminarias y al envejecimiento de las lám- paras.\ne) Con el fin de identificar los colores de seguridad de las señales, el valor mínimo del índice de rendimiento cromático Ra de las lámparas será 40.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 22
+                        },
+                        {
+                            "subsubsection_name": "2.4 Iluminación de las señales de seguridad",
+                            "content": "1 La iluminación de las señales de evacuación indicativas de las salidas y de las señales indicativas de los medios manuales de protección contra incendios y de los de primeros auxilios, deben cumplir los siguientes requisitos:\na) La luminancia de cualquier área de color de seguridad de la señal debe ser al menos de 2 cd/m2 en todas las direcciones de visión importantes;\nb) La relación de la luminancia máxima a la mínima dentro del color blanco o de seguridad no debe ser mayor de 10:1, debiéndose evitar variaciones importantes entre puntos adyacentes;\nc) La relación entre la luminancia Lblanca, y la luminancia Lcolor >10, no será menor que 5:1 ni mayor que 15:1.\nd) Las señales de seguridad deben estar iluminadas al menos al 50% de la iluminancia requerida, al cabo de 5 s, y al 100% al cabo de 60 s.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 22
+                        }
+                    ],
+                    "content": "",
+                    "images": [],
+                    "tables": [],
+                    "page": 21
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 21
+        },
+        {
+            "section_name": "Sección SUA 5. Seguridad frente al riesgo causado por situaciones de alta ocupación",
+            "subsections": [
+                {
+                    "subsection_name": "1 Ámbito de aplicación",
+                    "subsubsections": [],
+                    "content": "1 Las condiciones establecidas en esta Sección son de aplicación a los graderíos de estadios, pabe- llones polideportivos, centros de reunión, otros edificios de uso cultural, etc. previstos para más de 3000 espectadores de pie(1). En todo lo relativo a las condiciones de evacuación les es también de aplicación la Sección SI 3 del Documento Básico DB-SI.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 23
+                },
+                {
+                    "subsection_name": "2 Condiciones de los graderíos para espectadores de pie",
+                    "subsubsections": [],
+                    "content": "1 La pendiente no será mayor que 50%.\n2 La longitud de una fila que tenga accesos desde pasillos situados en sus dos extremos será de 20 m, como máximo. Cuando la fila sólo disponga de acceso por un extremo, la longitud de esta será de 10 m, como máximo.\n3 La anchura útil de los pasillos se determinará de acuerdo con las exigencias establecidas en el Capí- tulo 4 de la Sección SI 3 del DB-SI.\n4 La diferencia de cota entre cualquier fila de espectadores y alguna salida del graderío será de 4 m, como máximo.\n5 En graderíos y tribunas con más de cinco filas y cuya pendiente exceda el 6% se dispondrá una ba- rrera continua o rompeolas de 1,10 m de altura, como mínimo, delante de la primera fila, así como barreras adicionales de la misma altura a la distancia horizontal que se indica en la tabla 2.1 en fun- ción de la pendiente del graderío.\nLas barreras resistirán una fuerza horizontal de 5,0 kN/m aplicada en el borde superior.\nNo existirán más de 2 aberturas alineadas en filas sucesivas de barreras. La línea que une en planta dichas aberturas formará un ángulo menor que 60º con respecto a las barreras (véase figura 2.1). Las aberturas tendrán una anchura comprendida entre 1,10 m y 1,40 m.\n(1) Considerando la densidad de ocupación de 4 personas /m2 que se establece en el Capítulo 2 de la Sección 3 del DB-SI.\n",
+                    "images": [
+                        {
+                            "page": 24,
+                            "caption": "Figura 2.1 Líneas sucesivas de barreras en planta",
+                            "filename": "./results/DBSUA/img_table\\figure-24-13.jpg"
+                        }
+                    ],
+                    "tables": [
+                        {
+                            "page": 23,
+                            "text": "Pendiente Distancia entre barreras D (m) 6% ≤ P ≤10% 5 10% < P ≤ 25% 4 25% < P ≤ 50% 3",
+                            "caption": "Tabla 2.1 Distancia máxima entre barreras",
+                            "filename": "./results/DBSUA/img_table\\table-23-4.jpg"
+                        }
+                    ],
+                    "page": 23
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 23
+        },
+        {
+            "section_name": "Sección SUA 6. Seguridad frente al riesgo de ahogamiento",
+            "subsections": [
+                {
+                    "subsection_name": "1 Piscinas",
+                    "subsubsections": [
+                        {
+                            "subsubsection_name": "1.1 Barreras de protección",
+                            "content": "1 Las piscinas en las que el acceso de niños a la zona de baño no esté controlado dispondrán de ba- rreras de protección que impidan su acceso al vaso excepto a través de puntos previstos para ello, los cuales tendrán elementos practicables con sistema de cierre y bloqueo.\n2 Las barreras de protección tendrán una altura mínima de 1,20 m, resistirán una fuerza horizontal aplicada en el borde superior de 0,5 kN/m y tendrán las condiciones constructivas establecidas en el apartado 3.2.3 de la Sección SUA 1.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 25
+                        },
+                        {
+                            "subsubsection_name": "1.2 Características del vaso de la piscina",
+                            "content": "1 La profundidad del vaso en piscinas infantiles será 50 cm, como máximo. En el resto de piscinas la profundidad será de 3 m, como máximo, y contarán con zonas cuya profundidad será menor que 1,40 m.\n2 Se señalizarán los puntos en donde se supere la profundidad de 1,40 m, e igualmente se señalizará el valor de la máxima y la mínima profundidad en sus puntos correspondientes mediante rótulos al menos en las paredes del vaso y en el andén, con el fin de facilitar su visibilidad, tanto desde dentro como desde fuera del vaso.\n1.2.2 Pendiente\n1 Los cambios de profundidad se resolverán mediante pendientes que serán, como máximo, las si- guientes:\na) En piscinas infantiles el 6%;\nb) En piscinas de recreo o polivalentes, el 10 % hasta una profundidad de 1,40 m y el 35% en el resto de las zonas.\n1.2.3 Huecos\n1 Los huecos practicados en el vaso estarán protegidos mediante rejas u otro dispositivo de seguridad que impidan el atrapamiento de los usuarios.\n1.2.4 Materiales\n1 En zonas cuya profundidad no exceda de 1,50 m, el material del fondo será de Clase 3 en función de su resbaladicidad, determinada de acuerdo con lo especificado en el apartado 1 de la Sección SUA 1.\n2 El revestimiento interior del vaso será de color claro con el fin de permitir la visión del fondo.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 25
+                        },
+                        {
+                            "subsubsection_name": "1.3 Andenes",
+                            "content": "1 El suelo del andén o playa que circunda el vaso será de clase 3 conforme a lo establecido en el apar- tado 1 de la Sección SUA 1, tendrá una anchura de 1,20 m, como mínimo, y su construcción evitará el encharcamiento.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 26
+                        },
+                        {
+                            "subsubsection_name": "1.4 Escaleras",
+                            "content": "1 Excepto en las piscinas infantiles, las escaleras alcanzarán una profundidad bajo el agua de 1m, como mínimo, o bien hasta 30 cm por encima del suelo del vaso.\n2 Las escaleras se colocarán en la proximidad de los ángulos del vaso y en los cambios de pendiente, de forma que no disten más de 15 m entre ellas. Tendrán peldaños antideslizantes, carecerán de aristas vivas y no deben sobresalir del plano de la pared del vaso.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 26
+                        }
+                    ],
+                    "content": "1 Esta Sección es aplicable a las piscinas de uso colectivo, salvo a las destinadas exclusivamente a competición o a enseñanza, las cuales tendrán las características propias de la actividad que se desarrolle.\nQuedan excluidas las piscinas de viviendas unifamiliares, así como los baños termales, los centros de tratamiento de hidroterapia y otros dedicados a usos exclusivamente médicos, los cuales cumpli- rán lo dispuesto en su reglamentación específica.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 25
+                },
+                {
+                    "subsection_name": "2 Pozos y depósitos",
+                    "subsubsections": [],
+                    "content": "1 Los pozos, depósitos, o conducciones abiertas que sean accesibles a personas y presenten riesgo de ahogamiento estarán equipados con sistemas de protección, tales como tapas o rejillas, con la suficiente rigidez y resistencia, así como con cierres que impidan su apertura por personal no autori- zado.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 26
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 25
+        },
+        {
+            "section_name": "Sección SUA 7. Seguridad frente al riesgo causado por vehículos en movimiento",
+            "subsections": [
+                {
+                    "subsection_name": "1 Ámbito de aplicación",
+                    "subsubsections": [],
+                    "content": "1 Esta Sección es aplicable a las zonas de uso Aparcamiento (lo que excluye a los garajes de una vivienda unifamiliar) así como a las vías de circulación de vehículos existentes en los edificios.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 27
+                },
+                {
+                    "subsection_name": "2 Características constructivas",
+                    "subsubsections": [],
+                    "content": "1 Las zonas de uso Aparcamiento dispondrán de un espacio de acceso y espera en su incorporación al exterior, con una profundidad adecuada a la longitud del tipo de vehículo y de 4,5 m como mínimo y una pendiente del 5% como máximo.\n2 Todo recorrido para peatones previsto por una rampa para vehículos, excepto cuando únicamente esté previsto para caso de emergencia, tendrá una anchura de 80 cm, como mínimo, y estará prote- gido mediante una barrera de protección de 80 cm de altura, como mínimo, o mediante pavimento a un nivel más elevado, en cuyo caso el desnivel cumplirá lo especificado en el apartado 3.1 de la Sección SUA 1.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 27
+                },
+                {
+                    "subsection_name": "3 Protección de recorridos peatonales",
+                    "subsubsections": [],
+                    "content": "1 En plantas de Aparcamiento con capacidad mayor que 200 vehículos o con superficie mayor que 5000 m2, los itinerarios peatonales de zonas de uso público se identificarán mediante pavimento dife- renciado con pinturas o relieve, o bien dotando a dichas zonas de un nivel más elevado. Cuando di- cho desnivel exceda de 55 cm, se protegerá conforme a lo que se establece en el apartado 3.2 de la sección SUA 1.\n2 Frente a las puertas que comunican los aparcamientos a los que hace referencia el punto 1 anterior con otras zonas, dichos itinerarios se protegerán mediante la disposición de barreras situadas a una distancia de las puertas de 1,20 m, como mínimo, y con una altura de 80 cm, como mínimo.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 27
+                },
+                {
+                    "subsection_name": "4 Señalización",
+                    "subsubsections": [],
+                    "content": "1 Debe señalizarse, conforme a lo establecido en el código de la circulación:\na) el sentido de la circulación y las salidas;\nla velocidad máxima de circulación de 20 km/h;\nlas zonas de tránsito y paso de peatones, en las vías o rampas de circulación y acceso;\nLos aparcamientos a los que pueda acceder transporte pesado tendrán señalizado además los gáli- bos y las alturas limitadas.\n2 Las zonas destinadas a almacenamiento y a carga o descarga deben estar señalizadas y delimitadas mediante marcas viales o pinturas en el pavimento.\n3 En los accesos de vehículos a viales exteriores desde establecimientos de uso Aparcamiento se dispondrán dispositivos que alerten al conductor de la presencia de peatones en las proximidades de dichos accesos.\nSección SUA 8\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 27
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 27
+        },
+        {
+            "section_name": "Sección SUA 8. Seguridad frente al riesgo causado por la acción del rayo",
+            "subsections": [
+                {
+                    "subsection_name": "1 Procedimiento de verificación",
+                    "subsubsections": [],
+                    "content": "1 Será necesaria la instalación de un sistema de protección contra el rayo, en los términos que se es- tablecen en el apartado 2, cuando la frecuencia esperada de impactos Ne sea mayor que el riesgo admisible Na.\n2 Los edificios en los que se manipulen sustancias tóxicas, radioactivas, altamente inflamables o ex- plosivas y los edificios cuya altura sea superior a 43 m dispondrán siempre de sistemas de protec- ción contra el rayo de eficiencia E superior o igual a 0,98, según lo indicado en el apartado 2.\n3 La frecuencia esperada de impactos, Ne, puede determinarse mediante la expresión:\n[nº impactos/año]\nsiendo:\nNg densidad de impactos sobre el terreno (nº impactos/año,km2), obtenida según la figura 1.1;\nAe: superficie de captura equivalente del edificio aislado en m2, que es la delimitada por una línea trazada a una distancia 3H de cada uno de los puntos del perímetro del edificio, siendo H la altu- ra del edificio en el punto del perímetro considerado.\nC1: coeficiente relacionado con el entorno, según la tabla 1.1.\n4 El riesgo admisible, Na, puede determinarse mediante la expresión:\nsiendo:\nC2 coeficiente en función del tipo de construcción, conforme a la tabla 1.2;\nC3 coeficiente en función del contenido del edificio, conforme a la tabla 1.3;\nC4 coeficiente en función del uso del edificio, conforme a la tabla 1.4;\nC5 coeficiente en función de la necesidad de continuidad en las actividades que se desarrollan en el edificio, conforme a la tabla 1.5.\nTabla 1.3 Coeficiente C3\nEdificio con contenido inflamable\nOtros contenidos\nTabla 1.5 Coeficiente C5\nEdificios cuyo deterioro pueda interrumpir un servicio imprescindible (hospitales, bomberos, ...) o pueda ocasionar un impacto ambiental grave\nResto de edificios\n",
+                    "images": [
+                        {
+                            "page": 28,
+                            "caption": "Figura 1.1 Mapa de densidad de impactos sobre el terreno Ng",
+                            "filename": "./results/DBSUA/img_table\\figure-28-14.jpg"
+                        }
+                    ],
+                    "tables": [
+                        {
+                            "page": 29,
+                            "text": "Situación del edificio C1 Próximo a otros edificios o árboles de la misma altura o más altos 0,5 Rodeado de edificios más bajos 0,75 Aislado 1 Aislado sobre una colina o promontorio 2",
+                            "caption": "Tabla 1.1 Coeficiente C1",
+                            "filename": "./results/DBSUA/img_table\\table-29-5.jpg"
+                        },
+                        {
+                            "page": 29,
+                            "text": "Cubierta metálica Cubierta de hormigón Cubierta de madera Estructura metálica 0,5 1 2 Estructura de hormigón 1 1 2,5 Estructura de madera 2 2,5 3",
+                            "caption": "Tabla 1.2 Coeficiente C2",
+                            "filename": "./results/DBSUA/img_table\\table-29-6.jpg"
+                        },
+                        {
+                            "page": 29,
+                            "text": "Edificios no ocupados normalmente 0,5 Usos Pública Concurrencia, Sanitario, Comercial, Docente 3 Resto de edificios 1",
+                            "caption": "Tabla 1.4 Coeficiente C4",
+                            "filename": "./results/DBSUA/img_table\\table-29-7.jpg"
+                        }
+                    ],
+                    "page": 28
+                },
+                {
+                    "subsection_name": "2 Tipo de instalación exigido",
+                    "subsubsections": [],
+                    "content": "1 La eficacia E requerida para una instalación de protección contra el rayo se determina mediante la siguiente fórmula:\n2 La tabla 2.1 indica el nivel de protección correspondiente a la eficiencia requerida. Las características del sistema para cada nivel de protección se describen en el Anexo SUA B:\nSUA 8. Seguridad frente al riesgo causado por la acción del rayo\n(1) Dentro de estos límites de eficiencia requerida, la instalación de protección contra el rayo no es obligatoria.\n",
+                    "images": [],
+                    "tables": [
+                        {
+                            "page": 30,
+                            "text": "Eficiencia requerida Nivel de protección E > 0,98 1 0,95 < E <0,98 2 0,80 < E <0,95 3 0 < E < 0,80 (1) 4",
+                            "caption": "Tabla 2.1 Componentes de la instalación",
+                            "filename": "./results/DBSUA/img_table\\table-30-8.jpg"
+                        }
+                    ],
+                    "page": 29
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 28
+        },
+        {
+            "section_name": "Sección SUA 9. Accesibilidad",
+            "subsections": [
+                {
+                    "subsection_name": "1 Condiciones de accesibilidad",
+                    "subsubsections": [
+                        {
+                            "subsubsection_name": "1.1 Condiciones funcionales",
+                            "content": "1 La parcela dispondrá al menos de un itinerario accesible que comunique una entrada principal al edificio, y en conjuntos de viviendas unifamiliares una entrada a la zona privativa de cada vivienda, con la vía pública y con las zonas comunes exteriores, tales como aparcamientos exteriores propios del edificio, jardines, piscinas, zonas deportivas, etc.\n1.1.2 Accesibilidad entre plantas del edificio\n1 Los edificios de uso Residencial Vivienda en los que haya que salvar más de dos plantas desde al- guna entrada principal accesible al edificio hasta alguna vivienda o zona comunitaria, o con más de 12 viviendas en plantas sin entrada principal accesible al edificio, dispondrán de ascensor accesible o rampa accesible (conforme al apartado 4 del SUA 1) que comunique las plantas que no sean de ocupación nula (ver definición en el anejo SI A del DB SI) con las de entrada accesible al edificio. En el resto de los casos, el proyecto debe prever, al menos dimensional y estructuralmente, la instala- ción de un ascensor accesible que comunique dichas plantas.\nLas plantas con viviendas accesibles para usuarios de silla de ruedas dispondrán de ascensor acce- sible o de rampa accesible que las comunique con las plantas con entrada accesible al edificio y con las que tengan elementos asociados a dichas viviendas o zonas comunitarias, tales como trastero o plaza de aparcamiento de la vivienda accesible, sala de comunidad, tendedero, etc.\n2 Los edificios de otros usos en los que haya que salvar más de dos plantas desde alguna entrada principal accesible al edificio hasta alguna planta que no sea de ocupación nula, o cuando en total existan más de 200 m2 de superficie útil (ver definición en el anejo SI A del DB SI) excluida la super- ficie de zonas de ocupación nula en plantas sin entrada accesible al edificio, dispondrán de ascensor accesible o rampa accesible que comunique las plantas que no sean de ocupación nula con las de entrada accesible al edificio.\nLas plantas que tengan zonas de uso público con más de 100 m2 de superficie útil o elementos ac- cesibles, tales como plazas de aparcamiento accesibles, alojamientos accesibles, plazas reservadas, etc., dispondrán de ascensor accesible o rampa accesible que las comunique con las de entrada ac- cesible al edificio.\n1.1.3 Accesibilidad en las plantas del edificio\n1 Los edificios de uso Residencial Vivienda dispondrán de un itinerario accesible que comunique el acceso accesible a toda planta (entrada principal accesible al edificio, ascensor accesible o previsión del mismo, rampa accesible) con las viviendas, con las zonas de uso comunitario y con los elemen-\ntos asociados a viviendas accesibles para usuarios de silla de ruedas, tales como trasteros, plazas de aparcamiento accesibles, etc., situados en la misma planta.\n2 Los edificios de otros usos dispondrán de un itinerario accesible que comunique, en cada planta, el acceso accesible a ella (entrada principal accesible al edificio, ascensor accesible, rampa accesible) con las zonas de uso público, con todo origen de evacuación (ver definición en el anejo SI A del DB SI) de las zonas de uso privado exceptuando las zonas de ocupación nula, y con los elementos ac- cesibles, tales como plazas de aparcamiento accesibles, servicios higiénicos accesibles, plazas re- servadas en salones de actos y en zonas de espera con asientos fijos, alojamientos accesibles, pun- tos de atención accesibles, etc.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 31
+                        },
+                        {
+                            "subsubsection_name": "1.2 Dotación de elementos accesibles",
+                            "content": "1 Los edificios de uso Residencial Vivienda dispondrán del número de viviendas accesibles para usua- rios de silla de ruedas y para personas con discapacidad auditiva según la reglamentación aplicable.\n1.2.2 Alojamientos accesibles\n1 Los establecimientos de uso Residencial Público deberán disponer del número de alojamientos ac- cesibles que se indica en la tabla 1.1:\nNúmero total de alojamientos\n8, y uno más cada 50 alojamientos o fracción adicionales a 250\n1.2.3 Plazas de aparcamiento accesibles\n1 Todo edificio de uso Residencial Vivienda con aparcamiento propio contará con una plaza de apar- camiento accesible por cada vivienda accesible para usuarios de silla de ruedas.\n2 En otros usos, todo edificio o establecimiento con aparcamiento propio cuya superficie construida exceda de 100 m2 contará con las siguientes plazas de aparcamiento accesibles:\na) En uso Residencial Público, una plaza accesible por cada alojamiento accesible.\nb) En uso Comercial, Pública Concurrencia o Aparcamiento de uso público, una plaza accesible por cada 33 plazas de aparcamiento o fracción.\nc) En cualquier otro uso, una plaza accesible por cada 50 plazas de aparcamiento o fracción, hasta 200 plazas y una plaza accesible más por cada 100 plazas adicionales o fracción.\nEn todo caso, dichos aparcamientos dispondrán al menos de una plaza de aparcamiento accesible por cada plaza reservada para usuarios de silla de ruedas.\n1.2.4 Plazas reservadas\n1 Los espacios con asientos fijos para el público, tales como auditorios, cines, salones de actos, es- pectáculos, etc., dispondrán de la siguiente reserva de plazas:\na) Una plaza reservada para usuarios de silla de ruedas por cada 100 plazas o fracción.\nb) En espacios con más de 50 asientos fijos y en los que la actividad tenga una componente auditi- va, una plaza reservada para personas con discapacidad auditiva por cada 50 plazas o fracción.\n2 Las zonas de espera con asientos fijos dispondrán de una plaza reservada para usuarios de silla de ruedas por cada 100 asientos o fracción.\n1.2.5 Piscinas\n1 Las piscinas abiertas al público, las de establecimientos de uso Residencial Público con alojamientos accesibles y las de edificios con viviendas accesibles para usuarios de silla de ruedas, dispondrán de alguna entrada al vaso mediante grúa para piscina o cualquier otro elemento adaptado para tal efec- to. Se exceptúan las piscinas infantiles.\n1.2.6 Servicios higiénicos accesibles\n1 Siempre que sea exigible la existencia de aseos o de vestuarios por alguna disposición legal de obli- gado cumplimento, existirá al menos:\na) Un aseo accesible por cada 10 unidades o fracción de inodoros instalados, pudiendo ser de uso compartido para ambos sexos.\nb) En cada vestuario, una cabina de vestuario accesible, un aseo accesible y una ducha accesible por cada 10 unidades o fracción de los instalados. En el caso de que el vestuario no esté distri- buido en cabinas individuales, se dispondrá al menos una cabina accesible.\n1.2.7 Mobiliario fijo\n1 El mobiliario fijo de zonas de atención al público incluirá al menos un punto de atención accesible. Como alternativa a lo anterior, se podrá disponer un punto de llamada accesible para recibir asisten- cia.\n1.2.8 Mecanismos\n1 Excepto en el interior de las viviendas y en las zonas de ocupación nula, los interruptores, los dispo- sitivos de intercomunicación y los pulsadores de alarma serán mecanismos accesibles.\n",
+                            "images": [],
+                            "tables": [
+                                {
+                                    "page": 32,
+                                    "text": "De 5 a 50 1 De 51 a 100 2 De 101 a 150 4 De 151 a 200 6 Más de 200",
+                                    "caption": "Número de alojamientos accesibles",
+                                    "filename": "./results/DBSUA/img_table\\table-32-9.jpg"
+                                }
+                            ],
+                            "page": 32
+                        }
+                    ],
+                    "content": "1 Con el fin de facilitar el acceso y la utilización no discriminatoria, independiente y segura de los edifi- cios a las personas con discapacidad se cumplirán las condiciones funcionales y de dotación de elementos accesibles que se establecen a continuación.\n2 Dentro de los límites de las viviendas, incluidas las unifamiliares y sus zonas exteriores privativas, las condiciones de accesibilidad únicamente son exigibles en aquellas que deban ser accesibles.\n",
+                    "images": [],
+                    "tables": [],
+                    "page": 31
+                },
+                {
+                    "subsection_name": "2 Condiciones y características de la información y señalización para la accesibilidad",
+                    "subsubsections": [
+                        {
+                            "subsubsection_name": "2.1 Dotación",
+                            "content": "1 Con el fin de facilitar el acceso y la utilización independiente, no discriminatoria y segura de los edifi- cios, se señalizarán los elementos que se indican en la tabla 2.1, con las características indicadas en el apartado 2.2 siguiente, en función de la zona en la que se encuentren.\nTabla 2.1 Señalización de elementos accesibles en función de su localización (1)\nEn zonas de uso\n",
+                            "images": [],
+                            "tables": [
+                                {
+                                    "page": 34,
+                                    "text": "Elementos accesibles En zonas de uso privado público Entradas al edificio accesibles Cuando existan varias En todo caso entradas al edificio Itinerarios accesibles Cuando existan varios En todo caso recorridos alternativos Ascensores accesibles, En todo caso Plazas reservadas En todo caso Zonas dotadas con bucle magnético u otros sistemas En todo caso adaptados para personas con discapacidad auditiva Plazas de aparcamiento accesibles En todo caso, excepto En todo caso en uso Residencial Vi- vienda las vinculadas a un residente Servicios higiénicos accesibles (aseo accesible, ducha --- En todo caso accesible, cabina de vestuario accesible) Servicios higiénicos de uso general --- En todo caso Itinerario accesible que comunique la vía pública con los --- En todo caso puntos de llamada accesibles o, en su ausencia, con los puntos de atención accesibles",
+                                    "caption": "",
+                                    "filename": "./results/DBSUA/img_table\\table-34-10.jpg"
+                                }
+                            ],
+                            "page": 33
+                        },
+                        {
+                            "subsubsection_name": "2.2 Características",
+                            "content": "1 Las entradas al edificio accesibles, los itinerarios accesibles, las plazas de aparcamiento accesibles y los servicios higiénicos accesibles (aseo, cabina de vestuario y ducha accesible) se señalizarán mediante SIA, complementado, en su caso, con flecha direccional.\n2 Los ascensores accesibles se señalizarán mediante SIA. Asimismo, contarán con indicación en Brai- lle y arábigo en alto relieve a una altura entre 0,80 y 1,20 m, del número de planta en la jamba dere- cha en sentido salida de la cabina.\n3 Los servicios higiénicos de uso general se señalizarán con pictogramas normalizados de sexo en alto relieve y contraste cromático, a una altura entre 0,80 y 1,20 m, junto al marco, a la derecha de la puerta y en el sentido de la entrada.\n4 Las bandas señalizadoras visuales y táctiles serán de color contrastado con el pavimento, con relie- ve de altura 3±1 mm en interiores y 5±1 mm en exteriores. Las exigidas en el apartado 4.2.3 de la Sección SUA 1 para señalizar el arranque de escaleras, tendrán 80 cm de longitud en el sentido de la marcha, anchura la del itinerario y acanaladuras perpendiculares al eje de la escalera. Las exigi- das para señalizar el itinerario accesible hasta un punto de llamada accesible o hasta un punto de atención accesible, serán de acanaladura paralela a la dirección de la marcha y de anchura 40 cm.\n5 Las características y dimensiones del Símbolo Internacional de Accesibilidad para la movilidad (SIA) se establecen en la norma UNE 41501:2002.\n(1) La señalización de los medios de evacuación para personas con discapacidad en caso de incendio se regula en DB SI 3-7.\n",
+                            "images": [],
+                            "tables": [],
+                            "page": 34
+                        }
+                    ],
+                    "content": "",
+                    "images": [],
+                    "tables": [],
+                    "page": 33
+                }
+            ],
+            "content": "",
+            "images": [],
+            "tables": [],
+            "page": 31
+        },
+        {
+            "section_name": "Anejo A Terminología",
+            "subsections": [],
+            "content": "Habitación de hotel, de albergue, de residencia de estudiantes, apartamento turístico o alojamiento simi- lar, que cumple todas las características que le sean aplicables de las exigibles a las viviendas accesi- bles para usuarios de silla de ruedas y personas con discapacidad auditiva, y contará con un sistema de alarma que transmita señales visuales visibles desde todo punto interior, incluido el aseo.\nAscensor accesible\nAscensor que cumple la norma UNE-EN 81-70:2004 relativa a la “Accesibilidad a los ascensores de per- sonas, incluyendo personas con discapacidad”, así como las condiciones que se establecen a continua- ción:\n\nLa botonera incluye caracteres en Braille y en alto relieve, contrastados cromáticamente. En grupos de varios ascensores, el ascensor accesible tiene llamada individual / propia.\n- Las dimensiones de la cabina cumplen las condiciones de la tabla que se establece a continuación, en función del tipo de edificio:\nDimensiones mínimas, anchura x profundidad (m)\nEn edificios de uso Residencial Vivienda\nsin viviendas accesibles para\ncon viviendas accesibles para\nEn otros edificios, con superficie útil en plantas distintas a las de acceso\nCon una puerta o con dos\nCon dos puertas en ángulo\n- Cuando además deba ser ascensor de emergencia conforme a DB SI 4-1, tabla 1.1 cumplirá también las características que se establecen para éstos en el Anejo SI A de DB SI.\nEficiencia del sistema de protección\nProbabilidad de que un sistema de protección contra el rayo intercepte las descargas sin riesgo para la estructura e instalaciones.\nIluminancia, E\nFlujo luminoso por unidad de área de la superficie iluminada. En el sistema de unidades SI, la unidad de iluminancia es el lux (lx), que es la iluminancia de una superficie que recibe un flujo luminoso de un lu- men repartido sobre un m2 de superficie.\nItinerario accesible\nItinerario que, considerando su utilización en ambos sentidos, cumple las condiciones que se establecen a continuación:\n- Desniveles - Los desniveles se salvan mediante rampa accesible conforme al apartado 4 del SUA 1, o ascensor accesible. No se admiten escalones\n- Espacio para giro - Diámetro Ø 1,50 m libre de obstáculos en el vestíbulo de entrada, o portal, al fondo de pasillos de más de 10 m y frente a ascensores accesibles o al espacio dejado en previsión para ellos\nNo se considera parte de un itinerario accesible a las escaleras, rampas y pasillos mecánicos, a las puer- tas giratorias, a las barreras tipo torno y a aquellos elementos que no sean adecuados para personas con marcapasos u otros dispositivos médicos.\nLuminancia, L\nLuminancia L en un punto de una superficie en una dirección dada es el cociente de la intensidad lumi- nosa de un elemento de esa superficie por el área de la proyección ortogonal de dicho elemento sobre un plano perpendicular a dicha dirección dada. L se mide en cd/m2.\nMecanismos accesibles\nSon los que cumplen las siguientes características:\n- Están situados a una altura comprendida entre 80 y 120 cm cuando se trate de elementos de mando y control, y entre 40 y 120 cm cuando sean tomas de corriente o de señal.\nLa distancia a encuentros en rincón es de 35 cm, como mínimo.\n\nLos interruptores y los pulsadores de alarma son de fácil accionamiento mediante puño cerrado, codo y con una mano, o bien de tipo automático.\n- Tienen contraste cromático respecto del entorno.\n- No se admiten interruptores de giro y palanca.\n- No se admite iluminación con temporización en cabinas de aseos accesibles y vestuarios accesibles.\nNivel de protección\nTérmino de clasificación de los sistemas externos de protección contra el rayo en función de su eficacia.\nPlaza de aparcamiento accesible\nEs la que cumple las siguientes condiciones:\n- Está situada próxima al acceso peatonal al aparcamiento y comunicada con él mediante un itinerario accesible.\n- Dispone de un espacio anejo de aproximación y transferencia, lateral de anchura ≥ 1,20 m si la plaza es en batería, pudiendo compartirse por dos plazas contiguas, y trasero de longitud ≥ 3,00 m si la plaza es en línea.\n- En caso de que la plaza de aparcamiento accesible cuente con una estación de recarga de vehículo eléctrico, el itinerario accesible llega también hasta esta estación de recarga. Las tomas de corriente y conectores de estas estaciones de recarga tienen contraste cromático respecto del entorno, se si- túan a una altura comprendida entre 80 y 120 cm y la distancia a encuentros en rincón es de, como mínimo, 35 cm.\nPlaza reservada para personas con discapacidad auditiva\nPlaza que dispone de un sistema de mejora acústica proporcionado mediante bucle de inducción o cual- quier otro dispositivo adaptado a tal efecto.\nPlaza reservada para usuarios de silla de ruedas\nEspacio o plaza que cumple las siguientes condiciones:\n- Está próximo al acceso y salida del recinto y comunicado con ambos mediante un itinerario accesi- ble.\n- Sus dimensiones son de 0,80 por 1,20 m como mínimo, en caso de aproximación frontal, y de 0,80 por 1,50 m como mínimo, en caso de aproximación lateral.\n- Dispone de un asiento anejo para el acompañante.\nPunto de atención accesible\nPunto de atención al público, como ventanillas, taquillas de venta al público, mostradores de información, etc., que cumple las siguientes condiciones:\n- Está comunicado mediante un itinerario accesible con una entrada principal accesible al edificio.\n- Su plano de trabajo tiene una anchura de 0,80 m, como mínimo, está situado a una altura de 0,85 m, como máximo, y tiene un espacio libre inferior de 70 x 80 x 50 cm (altura x anchura x profundidad), como mínimo.\n- Si dispone de dispositivo de intercomunicación, éste está dotado con bucle de inducción u otro sis- tema adaptado a tal efecto.\nPunto de llamada accesible\nPunto de llamada para recibir asistencia que cumple las siguientes condiciones:\n- Está comunicado mediante un itinerario accesible con una entrada principal accesible al edificio.\n- Cuenta con un sistema intercomunicador mediante mecanismo accesible, con rótulo indicativo de su función, y permite la comunicación bidireccional con personas con discapacidad auditiva.\nServicios higiénicos accesibles\nLos servicios higiénicos accesibles, tales como aseos accesibles o vestuarios con elementos accesibles, son los que cumplen las condiciones que se establecen a continuación:\n- Aseo accesible\n- Está comunicado con un itinerario accesible\n- Espacio para giro de diámetro Ø 1,50 m libre de obstáculos\n- Puertas que cumplen las condiciones del itinerario accesible Son abatibles hacia el exterior o correderas\n- Dispone de barras de apoyo, mecanismos y accesorios diferenciados cromáticamen- te del entorno\n- Vestuario con elemen- - Está comunicado con un itinerario accesible\ntos accesibles\n- Espacio de circu- - En baterías de lavabos, duchas, vestuarios, espacios de lación taquillas, etc., anchura libre de paso ≥ 1,20 m\n- Espacio para giro de diámetro Ø 1,50 m libre de obstáculos\n- Puertas que cumplen las características del itinerario accesi- ble. Las puertas de cabinas de vestuario, aseos y duchas ac- cesibles son abatibles hacia el exterior o correderas\nAseos accesibles\n- Cumplen las condiciones de los aseos accesibles\nDuchas accesi-\nDimensiones de la plaza de usuarios de silla de ruedas 0,80\nbles, vestuarios\naccesibles\nSi es un recinto cerrado, espacio para giro de diámetro Ø\n1,50 m libre de obstáculos\nDispone de barras de apoyo, mecanismos, accesorios y\nasientos de apoyo diferenciados cromáticamente del entorno\nEl equipamiento de aseos accesibles y vestuarios con elementos accesibles cumple las condiciones que se establecen a continuación:\nAparatos sanitarios\nBarras de apoyo\nMecanismos y acceso-\n- Mecanismos de descarga a presión o palanca, con pulsadores de gran superficie\nrios\n- Grifería automática dotada de un sistema de detección de presencia o manual de tipo monomando con palanca alargada de tipo gerontológico. Alcance horizontal desde asiento ≤ 60 cm\n- Espejo, altura del borde inferior del espejo ≤ 0,90 m, o es orientable hasta al menos 10º sobre la vertical\n- Altura de uso de mecanismos y accesorios entre 0,70 – 1,20 m\nAsientos de apoyo en\nduchas y vestuarios\n- Dispondrán de asiento de 40 (profundidad) x 40 (anchura) x 45-50 cm (altura), abati- ble y con respaldo\n- Espacio de transferencia lateral ≥ 80 cm a un lado\nUso Administrativo\nEdificio, establecimiento o zona en la que se desarrollan actividades de gestión o de servicios en cual- quiera de sus modalidades, como por ejemplo, centros de la administración pública, bancos, despachos profesionales, oficinas, etc.\nTambién se consideran dentro de este uso los establecimientos destinados a otras actividades, cuando sus características constructivas y funcionales, el riesgo derivado de la actividad y las características de los ocupantes se puedan asimilar a este uso mejor que a cualquier otro. Como ejemplo de dicha asimila- ción pueden citarse los centros docentes en régimen de seminario, etc.\nA diferencia del uso Administrativo definido en el anejo A de Terminología del DB SI, los consultorios, los centros de análisis clínicos y los ambulatorios cumplirán las condiciones establecidas para el uso Sanita- rio en este DB.\nUso Aparcamiento\nEdificio, establecimiento o zona independiente o accesoria de otro uso principal, destinado a estaciona- miento de vehículos y cuya superficie construida exceda de 100 m2, incluyendo las dedicadas a revisio- nes tales como lavado, puesta a punto, montaje de accesorios, comprobación de neumáticos y faros, etc., que no requieran la manipulación de productos o de útiles de trabajo que puedan presentar riesgo adicional y que se produce habitualmente en la reparación propiamente dicha. Se excluyen de este uso los garajes, cualquiera que sea su superficie, de una vivienda unifamiliar, así como del ámbito de aplica- ción del DB-SUA, los aparcamientos robotizados.\nUso Comercial\nEdificio o establecimiento cuya actividad principal es la venta de productos directamente al público o la prestación de servicios relacionados con los mismos, incluyendo, tanto las tiendas y a los grandes alma- cenes, los cuales suelen constituir un único establecimiento con un único titular, como los centros co- merciales, los mercados, las galerías comerciales, etc.\nTambién se consideran de uso Comercial aquellos establecimientos en los que se prestan directamente al público determinados servicios no necesariamente relacionados con la venta de productos, pero cuyas características constructivas y funcionales, las del riesgo derivado de la actividad y las de los ocupantes se puedan asimilar más a las propias de este uso que a las de cualquier otro. Como ejemplos de dicha asimilación pueden citarse las lavanderías, los salones de peluquería, etc.\nUso Docente\nEdificio, establecimiento o zona destinada a docencia en cualquiera de sus niveles: escuelas infantiles, centros de enseñanza primaria, secundaria, universitaria o formación profesional. No obstante, los esta- blecimientos docentes que no tengan la característica propia de este uso (básicamente, el predominio de actividades en aulas de elevada densidad de ocupación) deben asimilarse a otros usos.\nUso general\nUtilización de las zonas o elementos que no sean de uso restringido.\nUso privado\nZonas o elementos que no sean de uso público, tales como:\n- en uso Administrativo las áreas de trabajo e instalaciones que no presten servicios directos al públi- co;\n\nen uso Aparcamiento los aparcamientos privados;\n- en uso Comercial y uso Pública Concurrencia las zonas de no acceso al público como trastiendas, almacenes, camerinos, oficinas, etc.;\nen uso Docente los despachos, etc.;\n\nen uso Sanitario las zonas de no acceso al público como habitaciones, quirófanos, despachos, alma- cenes, cocinas, etc.;\nen uso Residencial Público los alojamientos, oficinas, cocinas, etc.;\n\nen uso Residencial Vivienda todas las zonas.\nEl carácter del uso privado es independiente del tipo de titularidad, la cual puede ser tanto privada como pública.\nUso Pública Concurrencia\nEdificio o establecimiento destinado a alguno de los siguientes usos: cultural (destinados a restauración, espectáculos, reunión, esparcimiento, deporte, auditorios, juego y similares), religioso y de transporte de personas.\nUso público\nZonas o elementos de circulación susceptibles de ser utilizados por el público en general, personas no familiarizadas con el edificio, tales como:\nen uso Administrativo los espacios de atención al público;\n\nen uso Aparcamiento los aparcamientos públicos o que sirvan a establecimientos públicos;\n\nen uso Comercial los espacios de venta, los espacios comunes en centros comerciales, etc.;\nen uso Docente las aulas, las zonas de circulación, el salón de actos, bibliotecas, etc.;\n\nen uso Sanitario, las consultas, las zonas de acceso al público, zonas de espera, etc.;\n- en uso Pública Concurrencia todas las zonas excepto las restringidas al público;\n- en uso Residencial Público, las zonas de circulación, las zonas comunes de acceso a usuarios como comedores, salones, etc.\nEl carácter del uso público es independiente del tipo de titularidad, la cual puede ser tanto privada como pública.\nUso Residencial Público\nEdificio o establecimiento destinado a proporcionar alojamiento temporal, regentado por un titular de la actividad diferente del conjunto de los ocupantes y que puede disponer de servicios comunes, tales co- mo limpieza, comedor, lavandería, locales para reuniones y espectáculos, deportes, etc. Incluye a los hoteles, hostales, residencias, pensiones, apartamentos turísticos, etc.\nUso Residencial Vivienda\nEdificio o zona destinada a alojamiento permanente, cualquiera que sea el tipo de edificio: vivienda uni- familiar, edificio de pisos o de apartamentos, etc.\nUso restringido\nUtilización de las zonas o elementos de circulación limitados a un máximo de 10 personas que tienen el carácter de usuarios habituales, incluido el interior de las viviendas y de los alojamientos (en uno o más niveles) de uso Residencial Público, pero excluidas las zonas comunes de los edificios de viviendas.\nUso Sanitario\nEdificio o zona cuyo uso incluye hospitales, centros de salud, residencias geriátricas, consultorios, cen- tros de análisis clínicos, ambulatorios, etc.\nVivienda accesible para usuarios de silla de ruedas\nVivienda que cumple las condiciones que se establecen a continuación:\n- Carpintería enrasada con pavimento o con resalto cercos ≤ 5 cm\nEspacio\nVivienda accesible para personas con discapacidad auditiva\nVivienda que dispone de avisador luminoso y sonoro de timbre para apertura de la puerta del edificio y de la vivienda visible desde todos los recintos de la vivienda, de sistema de bucle magnético y vídeo- comunicador bidireccional para apertura de la puerta del edificio.\n",
+            "images": [],
+            "tables": [
+                {
+                    "page": 35,
+                    "text": "usuarios de silla de ruedas usuarios de silla de ruedas",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-35-11.jpg"
+                },
+                {
+                    "page": 35,
+                    "text": "1,00 x 1,25 1,10 x 1,40 puertas enfrentadas 1,40 x 1,40 1,40 x 1,40",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-35-12.jpg"
+                },
+                {
+                    "page": 36,
+                    "text": "- Pasillos y pasos - Anchura libre de paso ≥ 1,20 m. En zonas comunes de edificios de uso Residencial Vivien- da se admite 1,10 m - Estrechamientos puntuales de anchura ≥ 1,00 m, de longitud ≤ 0,50 m, y con separación ≥ 0,65 m a huecos de paso o a cambios de dirección - Puertas - Anchura libre de paso ≥ 0,80 m medida en el marco y aportada por no más de una hoja. En el ángulo de máxima apertura de la puerta, la anchura libre de paso reducida por el grosor de la hoja de la puerta debe ser ≥ 0,78 m - Mecanismos de apertura y cierre situados a una altura entre 0,80 - 1,20 m, de funciona- miento a presión o palanca y maniobrables con una sola mano, o son automáticos - En ambas caras de las puertas existe un espacio horizontal libre del barrido de las hojas de diámetro Ø 1,20 m - Distancia desde el mecanismo de apertura hasta el encuentro en rincón ≥ 0,30 m - Fuerza de apertura de las puertas de salida ≤ 25 N (≤ 65 N cuando sean resistentes al fuego) - Pavimento - No contiene piezas ni elementos sueltos, tales como gravas o arenas. Los felpudos y mo- quetas están encastrados o fijados al suelo - Para permitir la circulación y arrastre de elementos pesados, sillas de ruedas, etc., los suelos son resistentes a la deformación - Pendiente - La pendiente en sentido de la marcha es ≤ 4%, o cumple las condiciones de rampa accesi- ble, y la pendiente trasversal al sentido de la marcha es ≤ 2%",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-36-13.jpg"
+                },
+                {
+                    "page": 38,
+                    "text": "- Lavabo - Espacio libre inferior mínimo de 70 (altura) x 50 (profundidad) accesibles cm. Sin pedestal - Altura de la cara superior ≤ 85 cm - Inodoro - Espacio de transferencia lateral de anchura ≥ 80 cm y ≥ 75 cm de fondo hasta el borde frontal del inodoro. En uso públi- co, espacio de transferencia a ambos lados - Altura del asiento entre 45 – 50 cm - Ducha - Espacio de transferencia lateral de anchura ≥ 80 cm al lado del asiento - Suelo enrasado con pendiente de evacuación ≤ 2% - Urinario - Cuando haya más de 5 unidades, altura del borde entre 30 - 40 cm al menos en una unidad - Fáciles de asir, sección circular de diámetro 30-40 mm. Separadas del paramento 45-55 mm - Fijación y soporte, soportan una fuerza de 1 kN en cualquier dirección - Barras horizonta- - Se sitúan a una altura entre 70-75 cm les - De longitud ≥ 70 cm - Son abatibles las del lado de la transferencia - En inodoros - Una barra horizontal a cada lado, separadas entre sí 65-70 cm - En duchas - En el lado del asiento, barras de apoyo horizontal de forma perimetral en al menos dos paredes que formen esquina y una barra vertical en la pared a 60 cm de la esquina o del respaldo del asiento",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-38-14.jpg"
+                },
+                {
+                    "page": 41,
+                    "text": "- Desniveles - No se admiten escalones - Pasillos y - Anchura libre de paso ≥ 1,10 m pasos - Estrechamientos puntuales de anchura ≥ 1,00 m, de longitud ≤ 0,50 m y con separación ≥ 0,65 m a huecos de paso o a cambios de dirección - Vestíbulo - Espacio para giro de diámetro Ø 1,50 m libre de obstáculos. Se puede invadir con el barrido de puertas, pero cumpliendo las condiciones aplicables a éstas - Puertas - Anchura libre de paso ≥ 0,80 m medida en el marco y aportada por no más de una hoja. En el ángulo de máxima apertura de la puerta, la anchura libre de paso reducida por el grosor de la hoja de la puerta debe ser ≥ 0,78 m - Mecanismos de apertura y cierre situados a una altura entre 0,80 - 1,20 m, de funcionamiento a presión o palanca y maniobrables con una sola mano, o son automáticos - En ambas caras de las puertas existe un espacio horizontal libre del barrido de las hojas de diámetro Ø 1,20 m - Distancia desde el mecanismo de apertura hasta el encuentro en rincón ≥ 0,30 m - Mecanismos - Cumplen las condiciones que le sean aplicables de las exigibles a los mecanismos accesibles: interruptores, enchufes, válvulas y llaves de corte, cuadros eléctricos, intercomunicadores, car- pintería exterior, etc. - Estancia - Espacio para giro de diámetro Ø 1,50 m libre de obstáculos considerando el amueblamiento de principal la estancia - Dormitorios - Espacio para giro de diámetro Ø 1,50 m libre de obstáculos considerando el amueblamiento del (todos los de dormitorio la vivienda) - Espacio de aproximación y transferencia en un lado de la cama de anchura ≥ 0,90 m - Espacio de paso a los pies de la cama de anchura ≥ 0,90 m - Cocina - Espacio para giro de diámetro Ø 1,50 m libre de obstáculos considerando el amueblamiento de la cocina - Altura de la encimera ≤ 85 cm - Espacio libre bajo el fregadero y la cocina, mínimo 70 (altura) x 80 (anchura) x 60 (profundidad) cm - Baño, al - Espacio para giro de diámetro Ø 1,50 m libre de obstáculos menos uno - Puertas cumplen las condiciones del itinerario accesible. Son abatibles hacia el exterior o correderas - Lavabo Espacio libre inferior, mínimo 70 (altura) x 50 (profundidad) cm Altura de la cara superior ≤ 85 cm - Inodoro Espacio de transferencia lateral de anchura ≥ 80 cm a un lado Altura del asiento entre 45 – 50 cm - Ducha Espacio de transferencia lateral de anchura ≥ 80 cm a un lado Suelo enrasado con pendiente de evacuación ≤ 2% - Grifería Automática dotada de un sistema de detección de presencia o manual de tipo monomando con palanca alargada de tipo gerontológico. Alcance horizontal desde asiento ≤ 60 cm - Terraza - Espacio para giro de diámetro Ø 1,20 m libre de obstáculos",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-41-15.jpg"
+                },
+                {
+                    "page": 41,
+                    "text": "- Dispondrá de itinerarios accesibles que permitan su uso y disfrute por usuarios de silla de ruedas exterior, jardín",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-41-16.jpg"
+                }
+            ],
+            "page": 35
+        },
+        {
+            "section_name": "Anejo B Características de las instalaciones de protección frente al rayo",
+            "subsections": [],
+            "content": "1 Los sistemas de protección contra el rayo deben constar de un sistema externo, un sistema interno y una red de tierra de acuerdo a los apartados siguientes.\nB.1 Sistema externo\n1 El sistema externo de protección contra el rayo está formado por dispositivos captadores y por deri- vadores o conductores de bajada.\nB.1.1 Diseño de la instalación de dispositivos captadores\n1 Los dispositivos captadores podrán ser puntas Franklin, mallas conductoras y pararrayos con dispo- sitivo de cebado.\nB.1.1.1 Volumen protegido mediante puntas Franklin y mallas conductoras\n1 El diseño de la instalación se hará de manera que, en función del nivel de protección requerido, el edificio quede dentro del volumen protegido determinado por alguno de los siguientes métodos, que pueden utilizarse de forma separada o combinada:\na) ángulo de protección;\nb) esfera rodante;\nc) mallado o retícula.\nB.1.1.1.1 Método del ángulo de protección\n1 El volumen protegido determinado por los dispositivos captadores está formado por la superficie de referencia y la superficie generada por una línea que, pasando por el extremo del dispositivo capta- dor, gire formando un ángulo con él. Los valores de los ángulos de protección vienen dados en la tabla B.1 en función de la diferencia de altura entre la punta del pararrayos y el plano horizontal considerado h, para cada nivel de protección. Cuando se disponga un conductor horizontal uniendo dos puntas, el volumen protegido será el resultante de desplazar a lo largo del conductor el definido por las puntas (véase figura B.1).\nFigura B.2 Ángulo de protección, disposición para diferentes alturas\nDiferencia de altura h entre la punta del pararrayos y el\n* En estos casos se emplean los métodos de esfera rodante y/o malla.\nB.1.1.1.2 Método de la esfera rodante\n1 El volumen protegido queda definido al hacer rodar una esfera de radio R sobre el edificio (véase figura B.3). Las zonas que puedan ser tocadas por la esfera son susceptibles de ser alcanzados por las descargas.\n= _zonas susceptibles de ser impactadas zonas protegidas\nFigura B.3 Esfera rodante en estructuras\n2 El radio de la esfera será el indicado en la tabla B.2 en función del nivel de protección.\nNivel de protección\nRadio de la esfera rodante\nB.1.1.1.3 Método de la malla\n1 El volumen protegido es el definido por una malla rectangular cuya dimensión mayor será la indicada en la tabla B.3 en función del nivel de protección.\n2 Las condiciones para que la protección sea efectiva son las siguientes:\nlos conductores captadores situados en la cubierta deben estar colocados en:\ni) el perímetro de la cubierta;\nii) en la superficie de la cubierta formando una malla de la dimensión exigida;\niii) en la línea de limatesa de la cubierta, cuando la pendiente de la cubierta sea superior al 10%;\nb) en las superficies laterales de la estructura la malla debe disponerse a alturas superiores al radio de la esfera rodante correspondiente al nivel de protección exigido;\nc) ninguna instalación metálica debe sobresalir fuera del volumen protegido por las mallas.\n3 En edificios de altura superior a 60 m protegidos mediante malla conductora, se deberá disponer también una malla conductora para proteger el 20% superior de la fachada.\nB.1.1.2 Volumen protegido mediante pararrayos con dispositivo de cebado\n1 Cuando se utilicen pararrayos con dispositivo de cebado, el volumen protegido por cada punta se define de la siguiente forma (véase figura B.4):\na) bajo el plano horizontal situado 5 m por debajo de la punta, el volumen protegido es el de una esfera cuyo centro se sitúa en la vertical de la punta a una distancia D y cuyo radio es:\nsiendo\nR el radio de la esfera en m que define la zona protegida\nD distancia en m que figura en la tabla B.4 en función del nivel de protección\nL distancia en m función del tiempo del avance en el cebado t del pararrayos en s. Se adop- tará L=t para valores de t inferiores o iguales a 60 s, y L=60 m para valores de t su- periores.\nb) por encima de este plano, el volumen protegido es el de un cono definido por la punta de capta- ción y el círculo de intersección entre este plano y la esfera.\nFigura B.4 Volumen protegido por pararrayos con dispositivo de cebado\nB.1.2 Derivadores o conductores de bajada\n1 Los derivadores conducirán la corriente de descarga atmosférica desde el dispositivo captador a la toma de tierra, sin calentamientos y sin elevaciones de potencial peligrosos, por lo que deben pre- verse:\na) al menos un conductor de bajada por cada punta Franklin o pararrayos con dispositivo de ceba- do, y un mínimo de dos cuando la proyección horizontal del conductor sea superior a su proyec- ción vertical o cuando la altura de la estructura que se protege sea mayor que 28 m;\nlongitudes de las trayectoria lo más reducidas posible;\nc) conexiones equipotenciales entre los derivadores a nivel del suelo y cada 20 metros.\n2 En caso de mallas, los derivadores y conductores de bajada se repartirán a lo largo del perímetro del espacio a proteger, de forma que su separación media no exceda de lo indicado en la tabla B.5 en función del nivel de protección.\nTabla B.5 Distancia entre conductores de bajada en sistemas de protección de mallas conductoras\nNivel de protección\nDistancia entre conductores de bajada\nm\n3 Todo elemento de la instalación discurrirá por donde no represente riesgo de electrocución o estará protegido adecuadamente.\nB.2 Sistema interno\n1 Este sistema comprende los dispositivos que reducen los efectos eléctricos y magnéticos de la co- rriente de la descarga atmosférica dentro del espacio a proteger.\n2 Deberá unirse la estructura metálica del edificio, la instalación metálica, los elementos conductores externos, los circuitos eléctricos y de telecomunicación del espacio a proteger y el sistema externo de protección si lo hubiera, con conductores de equipotencialidad o protectores de sobretensiones a la red de tierra.\n3 Cuando no pueda realizarse la unión equipotencial de algún elemento conductor, los conductores de bajada se dispondrán a una distancia de dicho elemento superior a la distancia de seguridad ds. La distancia de seguridad ds será igual a:\nds = 0,1·L\nsiendo\nL la distancia vertical desde el punto en que se considera la proximidad hasta la toma de tierra de la masa metálica o la unión equipotencial más próxima. En el caso de canalizaciones exteriores de gas, la distancia de seguridad será de 5 m como mínimo.\nB.3 Red de tierra\n1 La red de tierra será la adecuada para dispersar en el terreno la corriente de las descargas atmosfé- ricas.\n",
+            "images": [
+                {
+                    "page": 42,
+                    "caption": "Figura B.1 Volumen protegido por captadores",
+                    "filename": "./results/DBSUA/img_table\\figure-42-15.jpg"
+                },
+                {
+                    "page": 43,
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\figure-43-16.jpg"
+                },
+                {
+                    "page": 43,
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\figure-43-17.jpg"
+                },
+                {
+                    "page": 45,
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\figure-45-18.jpg"
+                }
+            ],
+            "tables": [
+                {
+                    "page": 43,
+                    "text": "Nivel de protección plano horizontal considerado m 20 30 45 60 1 25º * * * 2 35º 25º * * 3 45º 35º 25º * 4 55º 45º 35º 25º",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-43-17.jpg"
+                },
+                {
+                    "page": 43,
+                    "text": "m 1 20 2 30 3 45 4 60",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-43-18.jpg"
+                },
+                {
+                    "page": 44,
+                    "text": "Nivel de protección Dimensión de la retícula m 1 5 2 10 3 15 4 20",
+                    "caption": "Tabla B.3 Dimensión de la retícula",
+                    "filename": "./results/DBSUA/img_table\\table-44-19.jpg"
+                },
+                {
+                    "page": 44,
+                    "text": "Nivel de protección Distancia D m 1 20 2 30 3 45 4 60",
+                    "caption": "Tabla B.4 Distancia D",
+                    "filename": "./results/DBSUA/img_table\\table-44-20.jpg"
+                },
+                {
+                    "page": 45,
+                    "text": "1 10 2 15 3 20 4 25",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-45-21.jpg"
+                }
+            ],
+            "page": 42
+        },
+        {
+            "section_name": "Anejo C Normas relacionadas con la aplicación del DB SUA",
+            "subsections": [],
+            "content": "Este anejo recoge la referencia completa de las normas citadas en el articulado del DBSUA.\n",
+            "images": [],
+            "tables": [
+                {
+                    "page": 47,
+                    "text": "1 Resbaladicidad UNE 41901:2017 EX Superficies para tránsito peatonal. Determinación de la resistencia al deslizamiento por el método del péndulo de fricción. Ensayo en húmedo. 2 Puertas UNE-EN 12046-2:2000 Fuerzas de maniobra. Método de ensayo. Parte 2: Puertas 3 Vidrio para la edificación UNE-EN 12600:2003 Vidrio para la edificación. Ensayo pendular. Método de ensayo al impacto y clasificación para vidrio plano. 4 Ascensores UNE-EN 81-70:2004+A1:2005 Reglas de seguridad para la construcción e instalación de ascenso- res. Aplicaciones particulares para los ascensores de pasajeros y de pasajeros y cargas. Parte 70: Accesibilidad a los ascensores de personas, incluyendo personas con discapacidad. 5 Señalización UNE 41501:2002 Símbolo de accesibilidad para la movilidad. Reglas y grados de uso.",
+                    "caption": "",
+                    "filename": "./results/DBSUA/img_table\\table-47-22.jpg"
+                }
+            ],
+            "page": 47
+        }
+    ]
+}

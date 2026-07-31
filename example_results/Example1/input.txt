@@ -1,0 +1,1 @@
+En proyecto la altura de la barandilla en la escalera es de 0.95m y su diseño permite que no sea escalable, tiene doble pasamanos a 95cm y 70cm (+-5cm de acuerdo con lo exigido en accesibilidad D 68/2000).

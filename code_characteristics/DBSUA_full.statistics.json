@@ -1,0 +1,184 @@
+{
+  "source_file": "DBSUA_full(1).json",
+  "definitions": {
+    "article": "Each top-level object in the root 'sections' array.",
+    "article_length": "Word count of the article title, its own content and all descendant hierarchy levels.",
+    "hierarchy_depth": "Top-level section = 1, subsection = 2, subsubsection = 3, subsubsubsection = 4, subsubsubsubsection = 5.",
+    "average_node_depth": "Arithmetic mean of the depths of all hierarchy nodes contained in an article."
+  },
+  "options": {
+    "include_tables": true,
+    "include_table_captions": true,
+    "count_numbers_as_words": true,
+    "table_text_duplicate_detection": true
+  },
+  "hierarchy_counts": {
+    "sections": 12,
+    "subsections": 22,
+    "subsubsections": 22,
+    "subsubsubsections": 0,
+    "subsubsubsubsections": 0
+  },
+  "nodes_beyond_requested_depth": {},
+  "total_normative_word_count": 13804,
+  "article_count": 12,
+  "article_length_words": {
+    "mean": 1150.3333,
+    "minimum": 147,
+    "maximum": 3444
+  },
+  "article_hierarchy": {
+    "average_max_depth_per_article": 2.1667,
+    "max_depth_across_articles": 3,
+    "min_depth_across_articles": 1,
+    "average_of_article_average_node_depths": 1.8137
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_title": "Sección SUA 1. Seguridad frente al riesgo de caídas",
+      "word_count": 3444,
+      "node_count": 12,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 5,
+        "subsubsections": 6
+      },
+      "max_hierarchy_depth": 3,
+      "average_node_depth": 2.4167
+    },
+    {
+      "article_index": 2,
+      "article_title": "Sección SUA 2. Seguridad frente al riesgo de impacto o de atrapamiento",
+      "word_count": 873,
+      "node_count": 7,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 2,
+        "subsubsections": 4
+      },
+      "max_hierarchy_depth": 3,
+      "average_node_depth": 2.4286
+    },
+    {
+      "article_index": 3,
+      "article_title": "Sección SUA 3. Seguridad frente al riesgo de aprisionamiento en recintos",
+      "word_count": 255,
+      "node_count": 2,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 1
+      },
+      "max_hierarchy_depth": 2,
+      "average_node_depth": 1.5
+    },
+    {
+      "article_index": 4,
+      "article_title": "Sección SUA 4. Seguridad frente al riesgo causado por iluminación inadecuada",
+      "word_count": 977,
+      "node_count": 7,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 2,
+        "subsubsections": 4
+      },
+      "max_hierarchy_depth": 3,
+      "average_node_depth": 2.4286
+    },
+    {
+      "article_index": 5,
+      "article_title": "Sección SUA 5. Seguridad frente al riesgo causado por situaciones de alta ocupación",
+      "word_count": 360,
+      "node_count": 3,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 2
+      },
+      "max_hierarchy_depth": 2,
+      "average_node_depth": 1.6667
+    },
+    {
+      "article_index": 6,
+      "article_title": "Sección SUA 6. Seguridad frente al riesgo de ahogamiento",
+      "word_count": 601,
+      "node_count": 7,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 2,
+        "subsubsections": 4
+      },
+      "max_hierarchy_depth": 3,
+      "average_node_depth": 2.4286
+    },
+    {
+      "article_index": 7,
+      "article_title": "Sección SUA 7. Seguridad frente al riesgo causado por vehículos en movimiento",
+      "word_count": 425,
+      "node_count": 5,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 4
+      },
+      "max_hierarchy_depth": 2,
+      "average_node_depth": 1.8
+    },
+    {
+      "article_index": 8,
+      "article_title": "Sección SUA 8. Seguridad frente al riesgo causado por la acción del rayo",
+      "word_count": 523,
+      "node_count": 3,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 2
+      },
+      "max_hierarchy_depth": 2,
+      "average_node_depth": 1.6667
+    },
+    {
+      "article_index": 9,
+      "article_title": "Sección SUA 9. Accesibilidad",
+      "word_count": 1723,
+      "node_count": 7,
+      "counts_by_level": {
+        "sections": 1,
+        "subsections": 2,
+        "subsubsections": 4
+      },
+      "max_hierarchy_depth": 3,
+      "average_node_depth": 2.4286
+    },
+    {
+      "article_index": 10,
+      "article_title": "Anejo A Terminología",
+      "word_count": 3247,
+      "node_count": 1,
+      "counts_by_level": {
+        "sections": 1
+      },
+      "max_hierarchy_depth": 1,
+      "average_node_depth": 1.0
+    },
+    {
+      "article_index": 11,
+      "article_title": "Anejo B Características de las instalaciones de protección frente al rayo",
+      "word_count": 1229,
+      "node_count": 1,
+      "counts_by_level": {
+        "sections": 1
+      },
+      "max_hierarchy_depth": 1,
+      "average_node_depth": 1.0
+    },
+    {
+      "article_index": 12,
+      "article_title": "Anejo C Normas relacionadas con la aplicación del DB SUA",
+      "word_count": 147,
+      "node_count": 1,
+      "counts_by_level": {
+        "sections": 1
+      },
+      "max_hierarchy_depth": 1,
+      "average_node_depth": 1.0
+    }
+  ]
+}
